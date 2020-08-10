@@ -1,0 +1,6968 @@
+[
+	{
+		"Id": "1",
+		"Word": "一下",
+		"Simplified": "一下",
+		"Pinyin": "yí xià",
+		"English": "a while"
+	},
+	{
+		"Id": "2",
+		"Word": "我",
+		"Simplified": "我",
+		"Pinyin": "wǒ",
+		"English": "I/ me"
+	},
+	{
+		"Id": "3",
+		"Word": "是",
+		"Simplified": "是",
+		"Pinyin": "shì",
+		"English": "to be"
+	},
+	{
+		"Id": "4",
+		"Word": "你",
+		"Simplified": "你",
+		"Pinyin": "nǐ",
+		"English": "you"
+	},
+	{
+		"Id": "5",
+		"Word": "是",
+		"Simplified": "是",
+		"Pinyin": "shì",
+		"English": "to be"
+	},
+	{
+		"Id": "6",
+		"Word": "也",
+		"Simplified": "也",
+		"Pinyin": "yě",
+		"English": "also/ too"
+	},
+	{
+		"Id": "7",
+		"Word": "呢",
+		"Simplified": "呢",
+		"Pinyin": "ne",
+		"English": "follow-up question particle"
+	},
+	{
+		"Id": "8",
+		"Word": "要",
+		"Simplified": "要",
+		"Pinyin": "yào",
+		"English": "to want"
+	},
+	{
+		"Id": "9",
+		"Word": "吃",
+		"Simplified": "吃",
+		"Pinyin": "chī",
+		"English": "to eat"
+	},
+	{
+		"Id": "10",
+		"Word": "什麼",
+		"Simplified": "什么",
+		"Pinyin": "shénme",
+		"English": "what"
+	},
+	{
+		"Id": "11",
+		"Word": "認識",
+		"Simplified": "认识",
+		"Pinyin": "rènshi",
+		"English": "to meet"
+	},
+	{
+		"Id": "12",
+		"Word": "好",
+		"Simplified": "好",
+		"Pinyin": "hǎo",
+		"English": "good"
+	},
+	{
+		"Id": "13",
+		"Word": "好吃",
+		"Simplified": "好吃",
+		"Pinyin": "hǎochī",
+		"English": "delicious"
+	},
+	{
+		"Id": "14",
+		"Word": "叫",
+		"Simplified": "叫",
+		"Pinyin": "jiào",
+		"English": "to call"
+	},
+	{
+		"Id": "15",
+		"Word": "名字",
+		"Simplified": "名字",
+		"Pinyin": "míngzì",
+		"English": "name"
+	},
+	{
+		"Id": "16",
+		"Word": "很",
+		"Simplified": "很",
+		"Pinyin": "hěn",
+		"English": "very/ very much"
+	},
+	{
+		"Id": "17",
+		"Word": "漂亮",
+		"Simplified": "漂亮",
+		"Pinyin": "piàoliàng",
+		"English": "beautiful/ pretty"
+	},
+	{
+		"Id": "18",
+		"Word": "多",
+		"Simplified": "多",
+		"Pinyin": "duō",
+		"English": "many/ much"
+	},
+	{
+		"Id": "19",
+		"Word": "您",
+		"Simplified": "您",
+		"Pinyin": "nín",
+		"English": "you (formal)"
+	},
+	{
+		"Id": "20",
+		"Word": "不",
+		"Simplified": "不",
+		"Pinyin": "bù",
+		"English": "(negative prefix)"
+	},
+	{
+		"Id": "21",
+		"Word": "用",
+		"Simplified": "用",
+		"Pinyin": "yòng",
+		"English": "to use"
+	},
+	{
+		"Id": "22",
+		"Word": "早上好。",
+		"Simplified": "早上好。",
+		"Pinyin": "Zǎoshàng hǎo.",
+		"English": "Good morning."
+	},
+	{
+		"Id": "23",
+		"Word": "再",
+		"Simplified": "再",
+		"Pinyin": "zài",
+		"English": "again"
+	},
+	{
+		"Id": "24",
+		"Word": "明天",
+		"Simplified": "明天",
+		"Pinyin": "míngtiān",
+		"English": "tomorrow"
+	},
+	{
+		"Id": "25",
+		"Word": "人",
+		"Simplified": "人",
+		"Pinyin": "rén",
+		"English": "person"
+	},
+	{
+		"Id": "26",
+		"Word": "位",
+		"Simplified": "位",
+		"Pinyin": "wèi",
+		"English": "formal measure word for people"
+	},
+	{
+		"Id": "27",
+		"Word": "下",
+		"Simplified": "下",
+		"Pinyin": "xià",
+		"English": "down/ next/ bottom"
+	},
+	{
+		"Id": "28",
+		"Word": "可以",
+		"Simplified": "可以",
+		"Pinyin": "kěyǐ",
+		"English": "can"
+	},
+	{
+		"Id": "29",
+		"Word": "那",
+		"Simplified": "那",
+		"Pinyin": "nà",
+		"English": "that"
+	},
+	{
+		"Id": "30",
+		"Word": "太",
+		"Simplified": "太",
+		"Pinyin": "tài",
+		"English": "a lot/much too"
+	},
+	{
+		"Id": "31",
+		"Word": "哪兒",
+		"Simplified": "哪儿",
+		"Pinyin": "nǎr",
+		"English": "where"
+	},
+	{
+		"Id": "32",
+		"Word": "到",
+		"Simplified": "到",
+		"Pinyin": "dào",
+		"English": "to arrive"
+	},
+	{
+		"Id": "33",
+		"Word": "北京",
+		"Simplified": "北京",
+		"Pinyin": "Běijīng",
+		"English": "Beijing"
+	},
+	{
+		"Id": "34",
+		"Word": "站",
+		"Simplified": "站",
+		"Pinyin": "zhàn",
+		"English": "station"
+	},
+	{
+		"Id": "35",
+		"Word": "坐",
+		"Simplified": "坐",
+		"Pinyin": "zuò",
+		"English": "to sit"
+	},
+	{
+		"Id": "36",
+		"Word": "的",
+		"Simplified": "的",
+		"Pinyin": "de",
+		"English": "possessive particle"
+	},
+	{
+		"Id": "37",
+		"Word": "早",
+		"Simplified": "早",
+		"Pinyin": "zǎo",
+		"English": "early/ morning"
+	},
+	{
+		"Id": "38",
+		"Word": "早",
+		"Simplified": "早",
+		"Pinyin": "zǎo",
+		"English": "early"
+	},
+	{
+		"Id": "39",
+		"Word": "喝",
+		"Simplified": "喝",
+		"Pinyin": "hē",
+		"English": "to drink"
+	},
+	{
+		"Id": "40",
+		"Word": "茶",
+		"Simplified": "茶",
+		"Pinyin": "chá",
+		"English": "tea"
+	},
+	{
+		"Id": "41",
+		"Word": "去",
+		"Simplified": "去",
+		"Pinyin": "qù",
+		"English": "to go"
+	},
+	{
+		"Id": "42",
+		"Word": "書",
+		"Simplified": "书",
+		"Pinyin": "shū",
+		"English": "book"
+	},
+	{
+		"Id": "43",
+		"Word": "朋友",
+		"Simplified": "朋友",
+		"Pinyin": "péngyǒu",
+		"English": "friend"
+	},
+	{
+		"Id": "44",
+		"Word": "你好",
+		"Simplified": "你好",
+		"Pinyin": "nǐhǎo",
+		"English": "hello"
+	},
+	{
+		"Id": "45",
+		"Word": "不知道",
+		"Simplified": "不知道",
+		"Pinyin": "bù zhīdào",
+		"English": "to not know"
+	},
+	{
+		"Id": "46",
+		"Word": "不好意思",
+		"Simplified": "不好意思",
+		"Pinyin": "bùhǎoyìsi",
+		"English": "I'm sorry"
+	},
+	{
+		"Id": "47",
+		"Word": "羊肉串兒",
+		"Simplified": "羊肉串儿",
+		"Pinyin": "yángròu chuànr",
+		"English": "lamb kebab"
+	},
+	{
+		"Id": "48",
+		"Word": "在",
+		"Simplified": "在",
+		"Pinyin": "zài",
+		"English": "at"
+	},
+	{
+		"Id": "49",
+		"Word": "麻煩",
+		"Simplified": "麻烦",
+		"Pinyin": "máfán",
+		"English": "trouble"
+	},
+	{
+		"Id": "50",
+		"Word": "還可以",
+		"Simplified": "还可以",
+		"Pinyin": "hái kěyǐ",
+		"English": "not bad/ passable"
+	},
+	{
+		"Id": "51",
+		"Word": "高興",
+		"Simplified": "高兴",
+		"Pinyin": "gāoxìng",
+		"English": "happy"
+	},
+	{
+		"Id": "52",
+		"Word": "認識",
+		"Simplified": "认识",
+		"Pinyin": "rènshi",
+		"English": "to know"
+	},
+	{
+		"Id": "53",
+		"Word": "想",
+		"Simplified": "想",
+		"Pinyin": "xiǎng",
+		"English": "would like/ to want/love to"
+	},
+	{
+		"Id": "54",
+		"Word": "詞典",
+		"Simplified": "词典",
+		"Pinyin": "cídiǎn",
+		"English": "dictionary"
+	},
+	{
+		"Id": "55",
+		"Word": "啤酒",
+		"Simplified": "啤酒",
+		"Pinyin": "píjiǔ",
+		"English": "beer"
+	},
+	{
+		"Id": "56",
+		"Word": "知道",
+		"Simplified": "知道",
+		"Pinyin": "zhīdào",
+		"English": "to know/ know"
+	},
+	{
+		"Id": "57",
+		"Word": "買",
+		"Simplified": "买",
+		"Pinyin": "mǎi",
+		"English": "to buy"
+	},
+	{
+		"Id": "58",
+		"Word": "這兒",
+		"Simplified": "这儿",
+		"Pinyin": "zhèr",
+		"English": "here"
+	},
+	{
+		"Id": "59",
+		"Word": "那兒",
+		"Simplified": "那儿",
+		"Pinyin": "nàr",
+		"English": "there"
+	},
+	{
+		"Id": "60",
+		"Word": "這裡",
+		"Simplified": "这里",
+		"Pinyin": "zhèlǐ",
+		"English": "here"
+	},
+	{
+		"Id": "61",
+		"Word": "走",
+		"Simplified": "走",
+		"Pinyin": "zǒu",
+		"English": "walk"
+	},
+	{
+		"Id": "62",
+		"Word": "請",
+		"Simplified": "请",
+		"Pinyin": "qǐng",
+		"English": "please"
+	},
+	{
+		"Id": "63",
+		"Word": "幫",
+		"Simplified": "帮",
+		"Pinyin": "bāng",
+		"English": "to help"
+	},
+	{
+		"Id": "64",
+		"Word": "照片",
+		"Simplified": "照片",
+		"Pinyin": "zhàopiàn",
+		"English": "photograph/picture"
+	},
+	{
+		"Id": "65",
+		"Word": "外國人",
+		"Simplified": "外国人",
+		"Pinyin": "wàiguórén",
+		"English": "foreigner"
+	},
+	{
+		"Id": "66",
+		"Word": "吧",
+		"Simplified": "吧",
+		"Pinyin": "ba",
+		"English": "(particle; denotes suggestion)"
+	},
+	{
+		"Id": "67",
+		"Word": "這",
+		"Simplified": "这",
+		"Pinyin": "zhè",
+		"English": "this"
+	},
+	{
+		"Id": "68",
+		"Word": "怎麼",
+		"Simplified": "怎么",
+		"Pinyin": "zěnme",
+		"English": "how"
+	},
+	{
+		"Id": "69",
+		"Word": "漢語",
+		"Simplified": "汉语",
+		"Pinyin": "hànyǔ",
+		"English": "Chinese (language)"
+	},
+	{
+		"Id": "70",
+		"Word": "寫",
+		"Simplified": "写",
+		"Pinyin": "xiě",
+		"English": "to write"
+	},
+	{
+		"Id": "71",
+		"Word": "來",
+		"Simplified": "来",
+		"Pinyin": "lái",
+		"English": "to come"
+	},
+	{
+		"Id": "72",
+		"Word": "甚麼",
+		"Simplified": "什么",
+		"Pinyin": "shénme",
+		"English": "what"
+	},
+	{
+		"Id": "73",
+		"Word": "多少",
+		"Simplified": "多少",
+		"Pinyin": "duōshǎo",
+		"English": "how much/ how many"
+	},
+	{
+		"Id": "74",
+		"Word": "幾",
+		"Simplified": "几",
+		"Pinyin": "jǐ",
+		"English": "how many (under ten)/ a few"
+	},
+	{
+		"Id": "75",
+		"Word": "送",
+		"Simplified": "送",
+		"Pinyin": "sòng",
+		"English": "to send/ to give"
+	},
+	{
+		"Id": "76",
+		"Word": "紐約",
+		"Simplified": "纽约",
+		"Pinyin": "Niǔyuē",
+		"English": "New York"
+	},
+	{
+		"Id": "77",
+		"Word": "掛號",
+		"Simplified": "挂号",
+		"Pinyin": "guàhào",
+		"English": "to take a number"
+	},
+	{
+		"Id": "78",
+		"Word": "天氣",
+		"Simplified": "天气",
+		"Pinyin": "tiānqì",
+		"English": "weather"
+	},
+	{
+		"Id": "79",
+		"Word": "熱",
+		"Simplified": "热",
+		"Pinyin": "rè",
+		"English": "hot"
+	},
+	{
+		"Id": "80",
+		"Word": "冷",
+		"Simplified": "冷",
+		"Pinyin": "lěng",
+		"English": "cold"
+	},
+	{
+		"Id": "81",
+		"Word": "給",
+		"Simplified": "给",
+		"Pinyin": "gěi",
+		"English": "to give"
+	},
+	{
+		"Id": "82",
+		"Word": "號碼",
+		"Simplified": "号码",
+		"Pinyin": "hàomǎ",
+		"English": "number"
+	},
+	{
+		"Id": "83",
+		"Word": "地址",
+		"Simplified": "地址",
+		"Pinyin": "dìzhǐ",
+		"English": "address"
+	},
+	{
+		"Id": "84",
+		"Word": "瓶",
+		"Simplified": "瓶",
+		"Pinyin": "píng",
+		"English": "bottle"
+	},
+	{
+		"Id": "85",
+		"Word": "水",
+		"Simplified": "水",
+		"Pinyin": "shuǐ",
+		"English": "water"
+	},
+	{
+		"Id": "86",
+		"Word": "可樂",
+		"Simplified": "可乐",
+		"Pinyin": "kělè",
+		"English": "cola"
+	},
+	{
+		"Id": "87",
+		"Word": "對",
+		"Simplified": "对",
+		"Pinyin": "duì",
+		"English": "correct"
+	},
+	{
+		"Id": "88",
+		"Word": "還",
+		"Simplified": "还",
+		"Pinyin": "hái",
+		"English": "still/ yet"
+	},
+	{
+		"Id": "89",
+		"Word": "有",
+		"Simplified": "有",
+		"Pinyin": "yǒu",
+		"English": "to have"
+	},
+	{
+		"Id": "90",
+		"Word": "辛苦",
+		"Simplified": "辛苦",
+		"Pinyin": "xīnkǔ",
+		"English": "hard/ hard work"
+	},
+	{
+		"Id": "91",
+		"Word": "關",
+		"Simplified": "关",
+		"Pinyin": "guān",
+		"English": "to turn off"
+	},
+	{
+		"Id": "92",
+		"Word": "豬肉",
+		"Simplified": "猪肉",
+		"Pinyin": "zhūròu",
+		"English": "pork"
+	},
+	{
+		"Id": "93",
+		"Word": "雞肉",
+		"Simplified": "鸡肉",
+		"Pinyin": "jīròu",
+		"English": "chicken"
+	},
+	{
+		"Id": "94",
+		"Word": "放",
+		"Simplified": "放",
+		"Pinyin": "fàng",
+		"English": "to put/ to put in"
+	},
+	{
+		"Id": "95",
+		"Word": "啊",
+		"Simplified": "啊",
+		"Pinyin": "a",
+		"English": "mood particle"
+	},
+	{
+		"Id": "96",
+		"Word": "請",
+		"Simplified": "请",
+		"Pinyin": "qǐng",
+		"English": "please"
+	},
+	{
+		"Id": "97",
+		"Word": "打",
+		"Simplified": "打",
+		"Pinyin": "dǎ",
+		"English": "to flag down"
+	},
+	{
+		"Id": "98",
+		"Word": "醫院",
+		"Simplified": "医院",
+		"Pinyin": "yīyuàn",
+		"English": "hospital"
+	},
+	{
+		"Id": "99",
+		"Word": "這邊",
+		"Simplified": "这边",
+		"Pinyin": "zhèbiān",
+		"English": "here/ around here"
+	},
+	{
+		"Id": "100",
+		"Word": "右邊",
+		"Simplified": "右边",
+		"Pinyin": "yòubiān",
+		"English": "on the right"
+	},
+	{
+		"Id": "101",
+		"Word": "嗓子",
+		"Simplified": "嗓子",
+		"Pinyin": "sǎngzi",
+		"English": "throat"
+	},
+	{
+		"Id": "102",
+		"Word": "不",
+		"Simplified": "不",
+		"Pinyin": "bù",
+		"English": "negative prefix"
+	},
+	{
+		"Id": "103",
+		"Word": "要",
+		"Simplified": "要",
+		"Pinyin": "yào",
+		"English": "to be going to/ have to"
+	},
+	{
+		"Id": "104",
+		"Word": "過敏",
+		"Simplified": "过敏",
+		"Pinyin": "guòmǐn",
+		"English": "allergy"
+	},
+	{
+		"Id": "105",
+		"Word": "頭疼",
+		"Simplified": "头疼",
+		"Pinyin": "tóuténg",
+		"English": "headache"
+	},
+	{
+		"Id": "106",
+		"Word": "感冒",
+		"Simplified": "感冒",
+		"Pinyin": "gǎnmào",
+		"English": "to have a cold"
+	},
+	{
+		"Id": "107",
+		"Word": "高興",
+		"Simplified": "高兴",
+		"Pinyin": "gāoxìng",
+		"English": "happy"
+	},
+	{
+		"Id": "108",
+		"Word": "認識",
+		"Simplified": "认识",
+		"Pinyin": "rènshí",
+		"English": "to know/ to recognize"
+	},
+	{
+		"Id": "109",
+		"Word": "先生",
+		"Simplified": "先生",
+		"Pinyin": "xiānshēng",
+		"English": "Mr./ sir"
+	},
+	{
+		"Id": "110",
+		"Word": "弟弟",
+		"Simplified": "弟弟",
+		"Pinyin": "dìdi",
+		"English": "younger brother"
+	},
+	{
+		"Id": "111",
+		"Word": "哥哥",
+		"Simplified": "哥哥",
+		"Pinyin": "gēge",
+		"English": "older brother"
+	},
+	{
+		"Id": "112",
+		"Word": "妹妹",
+		"Simplified": "妹妹",
+		"Pinyin": "mèimei",
+		"English": "younger sister"
+	},
+	{
+		"Id": "113",
+		"Word": "姐姐",
+		"Simplified": "姐姐",
+		"Pinyin": "jiějie",
+		"English": "older sister"
+	},
+	{
+		"Id": "114",
+		"Word": "丈夫",
+		"Simplified": "丈夫",
+		"Pinyin": "zhàngfu",
+		"English": "husband"
+	},
+	{
+		"Id": "115",
+		"Word": "妻子",
+		"Simplified": "妻子",
+		"Pinyin": "qīzǐ",
+		"English": "wife"
+	},
+	{
+		"Id": "116",
+		"Word": "女朋友",
+		"Simplified": "女朋友",
+		"Pinyin": "nǚ péngyǒu",
+		"English": "girlfriend"
+	},
+	{
+		"Id": "117",
+		"Word": "男朋友",
+		"Simplified": "男朋友",
+		"Pinyin": "nán péngyǒu",
+		"English": "boyfriend"
+	},
+	{
+		"Id": "118",
+		"Word": "現在",
+		"Simplified": "现在",
+		"Pinyin": "xiànzài",
+		"English": "now"
+	},
+	{
+		"Id": "119",
+		"Word": "問",
+		"Simplified": "问",
+		"Pinyin": "wèn",
+		"English": "to ask"
+	},
+	{
+		"Id": "120",
+		"Word": "分",
+		"Simplified": "分",
+		"Pinyin": "fēn",
+		"English": "minute"
+	},
+	{
+		"Id": "121",
+		"Word": "半",
+		"Simplified": "半",
+		"Pinyin": "bàn",
+		"English": "half"
+	},
+	{
+		"Id": "122",
+		"Word": "喜歡",
+		"Simplified": "喜欢",
+		"Pinyin": "xǐhuān",
+		"English": "to like"
+	},
+	{
+		"Id": "123",
+		"Word": "中國菜",
+		"Simplified": "中国菜",
+		"Pinyin": "Zhōngguócài",
+		"English": "Chinese food"
+	},
+	{
+		"Id": "124",
+		"Word": "非常",
+		"Simplified": "非常",
+		"Pinyin": "fēicháng",
+		"English": "extremely"
+	},
+	{
+		"Id": "125",
+		"Word": "高興",
+		"Simplified": "高兴",
+		"Pinyin": "gāoxìng",
+		"English": "happy"
+	},
+	{
+		"Id": "126",
+		"Word": "累",
+		"Simplified": "累",
+		"Pinyin": "lèi",
+		"English": "tired"
+	},
+	{
+		"Id": "127",
+		"Word": "不",
+		"Simplified": "不",
+		"Pinyin": "bù",
+		"English": "no"
+	},
+	{
+		"Id": "128",
+		"Word": "太",
+		"Simplified": "太",
+		"Pinyin": "tài",
+		"English": "too"
+	},
+	{
+		"Id": "129",
+		"Word": "年輕",
+		"Simplified": "年轻",
+		"Pinyin": "niánqīng",
+		"English": "young"
+	},
+	{
+		"Id": "130",
+		"Word": "新",
+		"Simplified": "新",
+		"Pinyin": "xīn",
+		"English": "new"
+	},
+	{
+		"Id": "131",
+		"Word": "謝謝",
+		"Simplified": "谢谢",
+		"Pinyin": "xièxie",
+		"English": "thank you"
+	},
+	{
+		"Id": "132",
+		"Word": "不客氣",
+		"Simplified": "不客气",
+		"Pinyin": "Bù kèqi",
+		"English": "you're welcome"
+	},
+	{
+		"Id": "133",
+		"Word": "早上好",
+		"Simplified": "早上好",
+		"Pinyin": "zǎoshàng hǎo",
+		"English": "good morning"
+	},
+	{
+		"Id": "134",
+		"Word": "再見",
+		"Simplified": "再见",
+		"Pinyin": "zài jiàn",
+		"English": "see you again"
+	},
+	{
+		"Id": "135",
+		"Word": "明天見",
+		"Simplified": "明天见",
+		"Pinyin": "míngtiān jiàn",
+		"English": "see you tomorrow"
+	},
+	{
+		"Id": "136",
+		"Word": "晚安",
+		"Simplified": "晚安",
+		"Pinyin": "wǎn'ān",
+		"English": "good evening/ good night"
+	},
+	{
+		"Id": "137",
+		"Word": "對不起",
+		"Simplified": "对不起",
+		"Pinyin": "duìbùqǐ",
+		"English": "I'm sorry"
+	},
+	{
+		"Id": "138",
+		"Word": "歡迎光臨",
+		"Simplified": "欢迎光临",
+		"Pinyin": "huānyíng guānglín",
+		"English": "welcome"
+	},
+	{
+		"Id": "139",
+		"Word": "喂",
+		"Simplified": "喂",
+		"Pinyin": "wéi",
+		"English": "hello (answering telephone)"
+	},
+	{
+		"Id": "140",
+		"Word": "中國",
+		"Simplified": "中国",
+		"Pinyin": "Zhōngguó",
+		"English": "China"
+	},
+	{
+		"Id": "141",
+		"Word": "旅途愉快",
+		"Simplified": "旅途愉快",
+		"Pinyin": "lǚtú yúkuài",
+		"English": "have a nice trip"
+	},
+	{
+		"Id": "142",
+		"Word": "每天",
+		"Simplified": "每天",
+		"Pinyin": "měitiān",
+		"English": "every day"
+	},
+	{
+		"Id": "143",
+		"Word": "打擾",
+		"Simplified": "打扰",
+		"Pinyin": "dǎrǎo",
+		"English": "to disturb"
+	},
+	{
+		"Id": "144",
+		"Word": "美國人",
+		"Simplified": "美国人",
+		"Pinyin": "měiguó rén",
+		"English": "American"
+	},
+	{
+		"Id": "145",
+		"Word": "加州",
+		"Simplified": "加州",
+		"Pinyin": "Jiāzhōu",
+		"English": "California"
+	},
+	{
+		"Id": "146",
+		"Word": "空氣",
+		"Simplified": "空气",
+		"Pinyin": "kōngqì",
+		"English": "air"
+	},
+	{
+		"Id": "147",
+		"Word": "做",
+		"Simplified": "做",
+		"Pinyin": "zuò",
+		"English": "to do"
+	},
+	{
+		"Id": "148",
+		"Word": "工作",
+		"Simplified": "工作",
+		"Pinyin": "gōngzuò",
+		"English": "to work"
+	},
+	{
+		"Id": "149",
+		"Word": "會計",
+		"Simplified": "会计",
+		"Pinyin": "kuàiji",
+		"English": "accountant"
+	},
+	{
+		"Id": "150",
+		"Word": "各",
+		"Simplified": "各",
+		"Pinyin": "gè",
+		"English": "each/ every"
+	},
+	{
+		"Id": "151",
+		"Word": "乘客",
+		"Simplified": "乘客",
+		"Pinyin": "chéngkè",
+		"English": "passenger"
+	},
+	{
+		"Id": "152",
+		"Word": "下午好",
+		"Simplified": "下午好",
+		"Pinyin": "xiàwǔ hǎo",
+		"English": "good afternoon"
+	},
+	{
+		"Id": "153",
+		"Word": "歡迎",
+		"Simplified": "欢迎",
+		"Pinyin": "huānyíng",
+		"English": "to welcome"
+	},
+	{
+		"Id": "154",
+		"Word": "來到",
+		"Simplified": "来到",
+		"Pinyin": "láidào",
+		"English": "to arrive at"
+	},
+	{
+		"Id": "155",
+		"Word": "上海",
+		"Simplified": "上海",
+		"Pinyin": "Shànghǎi",
+		"English": "Shanghai"
+	},
+	{
+		"Id": "156",
+		"Word": "機場",
+		"Simplified": "机场",
+		"Pinyin": "jīchǎng",
+		"English": "airport"
+	},
+	{
+		"Id": "157",
+		"Word": "今天",
+		"Simplified": "今天",
+		"Pinyin": "jīntiān",
+		"English": "today"
+	},
+	{
+		"Id": "158",
+		"Word": "是",
+		"Simplified": "是",
+		"Pinyin": "shì",
+		"English": "to be"
+	},
+	{
+		"Id": "159",
+		"Word": "下午",
+		"Simplified": "下午",
+		"Pinyin": "xiàwǔ",
+		"English": "afternoon"
+	},
+	{
+		"Id": "160",
+		"Word": "星期四",
+		"Simplified": "星期四",
+		"Pinyin": "xīngqī sì",
+		"English": "Thursday"
+	},
+	{
+		"Id": "161",
+		"Word": "三點",
+		"Simplified": "三点",
+		"Pinyin": "sān diǎn",
+		"English": "three o'clock"
+	},
+	{
+		"Id": "162",
+		"Word": "氣溫",
+		"Simplified": "气温",
+		"Pinyin": "qìwēn",
+		"English": "temperature"
+	},
+	{
+		"Id": "163",
+		"Word": "度",
+		"Simplified": "度",
+		"Pinyin": "dù",
+		"English": "degree"
+	},
+	{
+		"Id": "164",
+		"Word": "祝",
+		"Simplified": "祝",
+		"Pinyin": "zhù",
+		"English": "to wish/ to bless"
+	},
+	{
+		"Id": "165",
+		"Word": "中國",
+		"Simplified": "中国",
+		"Pinyin": "Zhōngguó",
+		"English": "China"
+	},
+	{
+		"Id": "166",
+		"Word": "扇子",
+		"Simplified": "扇子",
+		"Pinyin": "shànzi",
+		"English": "fan"
+	},
+	{
+		"Id": "167",
+		"Word": "也",
+		"Simplified": "也",
+		"Pinyin": "yě",
+		"English": "also"
+	},
+	{
+		"Id": "168",
+		"Word": "天",
+		"Simplified": "天",
+		"Pinyin": "tiān",
+		"English": "day"
+	},
+	{
+		"Id": "169",
+		"Word": "飯店",
+		"Simplified": "饭店",
+		"Pinyin": "fàndiàn",
+		"English": "hotel"
+	},
+	{
+		"Id": "170",
+		"Word": "果汁",
+		"Simplified": "果汁",
+		"Pinyin": "guǒzhī",
+		"English": "juice"
+	},
+	{
+		"Id": "171",
+		"Word": "包",
+		"Simplified": "包",
+		"Pinyin": "bāo",
+		"English": "(measure word for package)"
+	},
+	{
+		"Id": "172",
+		"Word": "餅乾",
+		"Simplified": "饼干",
+		"Pinyin": "bǐnggān",
+		"English": "cookie/ biscuit"
+	},
+	{
+		"Id": "173",
+		"Word": "葉",
+		"Simplified": "叶",
+		"Pinyin": "yè",
+		"English": "leaf"
+	},
+	{
+		"Id": "174",
+		"Word": "錢",
+		"Simplified": "钱",
+		"Pinyin": "qián",
+		"English": "money"
+	},
+	{
+		"Id": "175",
+		"Word": "一共",
+		"Simplified": "一共",
+		"Pinyin": "yígòng",
+		"English": "all together"
+	},
+	{
+		"Id": "176",
+		"Word": "塊",
+		"Simplified": "块",
+		"Pinyin": "kuài",
+		"English": "(measure word for money)"
+	},
+	{
+		"Id": "177",
+		"Word": "見到",
+		"Simplified": "见到",
+		"Pinyin": "jiàndào",
+		"English": "to see"
+	},
+	{
+		"Id": "178",
+		"Word": "名片",
+		"Simplified": "名片",
+		"Pinyin": "míngpiàn",
+		"English": "name card/ business card"
+	},
+	{
+		"Id": "179",
+		"Word": "上面",
+		"Simplified": "上面",
+		"Pinyin": "shàngmiàn",
+		"English": "on the top"
+	},
+	{
+		"Id": "180",
+		"Word": "電話號碼",
+		"Simplified": "电话号码",
+		"Pinyin": "diànhuà hàomǎ",
+		"English": "telephone number"
+	},
+	{
+		"Id": "181",
+		"Word": "電子郵箱地址",
+		"Simplified": "电子邮箱地址",
+		"Pinyin": "diànzǐ yóuxiāng dìzhǐ",
+		"English": "email address"
+	},
+	{
+		"Id": "182",
+		"Word": "保持聯繫",
+		"Simplified": "保持联系",
+		"Pinyin": "bǎochí liánxì",
+		"English": "keep in touch"
+	},
+	{
+		"Id": "183",
+		"Word": "怎麼樣",
+		"Simplified": "怎么样",
+		"Pinyin": "zěnmeyàng",
+		"English": "how is it"
+	},
+	{
+		"Id": "184",
+		"Word": "上午",
+		"Simplified": "上午",
+		"Pinyin": "shàngwǔ",
+		"English": "morning"
+	},
+	{
+		"Id": "185",
+		"Word": "可能",
+		"Simplified": "可能",
+		"Pinyin": "kěnéng",
+		"English": "possibly/ possible/ probably/possibility"
+	},
+	{
+		"Id": "186",
+		"Word": "下雨",
+		"Simplified": "下雨",
+		"Pinyin": "xiàyǔ",
+		"English": "rain"
+	},
+	{
+		"Id": "187",
+		"Word": "還有",
+		"Simplified": "还有",
+		"Pinyin": "háiyǒu",
+		"English": "in addition/ still"
+	},
+	{
+		"Id": "188",
+		"Word": "出租車",
+		"Simplified": "出租车",
+		"Pinyin": "chūzū chē",
+		"English": "taxi"
+	},
+	{
+		"Id": "189",
+		"Word": "飯店",
+		"Simplified": "饭店",
+		"Pinyin": "fàndiàn",
+		"English": "hotel"
+	},
+	{
+		"Id": "190",
+		"Word": "前面",
+		"Simplified": "前面",
+		"Pinyin": "qiánmiàn",
+		"English": "in front"
+	},
+	{
+		"Id": "191",
+		"Word": "謝謝你",
+		"Simplified": "谢谢你",
+		"Pinyin": "Xièxie nǐ",
+		"English": "thank you"
+	},
+	{
+		"Id": "192",
+		"Word": "晚上好",
+		"Simplified": "晚上好",
+		"Pinyin": "wǎnshàng hǎo",
+		"English": "good evening"
+	},
+	{
+		"Id": "193",
+		"Word": "冷",
+		"Simplified": "冷",
+		"Pinyin": "lěng",
+		"English": "cold"
+	},
+	{
+		"Id": "194",
+		"Word": "太陽很大",
+		"Simplified": "太阳很大",
+		"Pinyin": "tàiyáng hěn dà",
+		"English": "sunny"
+	},
+	{
+		"Id": "195",
+		"Word": "地方",
+		"Simplified": "地方",
+		"Pinyin": "dìfāng",
+		"English": "place"
+	},
+	{
+		"Id": "196",
+		"Word": "大廈",
+		"Simplified": "大厦",
+		"Pinyin": "dàshà",
+		"English": "building"
+	},
+	{
+		"Id": "197",
+		"Word": "大樓",
+		"Simplified": "大楼",
+		"Pinyin": "dàlóu",
+		"English": "building"
+	},
+	{
+		"Id": "198",
+		"Word": "會",
+		"Simplified": "会",
+		"Pinyin": "huì",
+		"English": "to be able to"
+	},
+	{
+		"Id": "199",
+		"Word": "說",
+		"Simplified": "说",
+		"Pinyin": "shuō",
+		"English": "to speak"
+	},
+	{
+		"Id": "200",
+		"Word": "不錯",
+		"Simplified": "不错",
+		"Pinyin": "búcuò",
+		"English": "pretty good"
+	},
+	{
+		"Id": "201",
+		"Word": "沒有",
+		"Simplified": "没有",
+		"Pinyin": "méiyǒu",
+		"English": "to not have"
+	},
+	{
+		"Id": "202",
+		"Word": "錢",
+		"Simplified": "钱",
+		"Pinyin": "qián",
+		"English": "money"
+	},
+	{
+		"Id": "203",
+		"Word": "發票",
+		"Simplified": "发票",
+		"Pinyin": "fāpiào",
+		"English": "receipt"
+	},
+	{
+		"Id": "204",
+		"Word": "找",
+		"Simplified": "找",
+		"Pinyin": "zhǎo",
+		"English": "to give change"
+	},
+	{
+		"Id": "205",
+		"Word": "姓",
+		"Simplified": "姓",
+		"Pinyin": "xìng",
+		"English": "last name/ family name"
+	},
+	{
+		"Id": "206",
+		"Word": "最近",
+		"Simplified": "最近",
+		"Pinyin": "zuìjìn",
+		"English": "recently/ lately"
+	},
+	{
+		"Id": "207",
+		"Word": "行程",
+		"Simplified": "行程",
+		"Pinyin": "xíngchéng",
+		"English": "itinerary/ schedule"
+	},
+	{
+		"Id": "208",
+		"Word": "月",
+		"Simplified": "月",
+		"Pinyin": "yuè",
+		"English": "month"
+	},
+	{
+		"Id": "209",
+		"Word": "日",
+		"Simplified": "日",
+		"Pinyin": "rì",
+		"English": "day"
+	},
+	{
+		"Id": "210",
+		"Word": "星期五",
+		"Simplified": "星期五",
+		"Pinyin": "xīngqī wǔ",
+		"English": "Friday"
+	},
+	{
+		"Id": "211",
+		"Word": "辦公室",
+		"Simplified": "办公室",
+		"Pinyin": "bàngōngshì",
+		"English": "office"
+	},
+	{
+		"Id": "212",
+		"Word": "希望",
+		"Simplified": "希望",
+		"Pinyin": "xīwàng",
+		"English": "hope/ wish"
+	},
+	{
+		"Id": "213",
+		"Word": "公司",
+		"Simplified": "公司",
+		"Pinyin": "gōngsī",
+		"English": "company"
+	},
+	{
+		"Id": "214",
+		"Word": "李",
+		"Simplified": "李",
+		"Pinyin": "Lǐ",
+		"English": "Li (surname)"
+	},
+	{
+		"Id": "215",
+		"Word": "中午",
+		"Simplified": "中午",
+		"Pinyin": "zhōngwǔ",
+		"English": "noon"
+	},
+	{
+		"Id": "216",
+		"Word": "東方",
+		"Simplified": "东方",
+		"Pinyin": "dōngfāng",
+		"English": "eastern"
+	},
+	{
+		"Id": "217",
+		"Word": "汽車",
+		"Simplified": "汽车",
+		"Pinyin": "qìchē",
+		"English": "automobile"
+	},
+	{
+		"Id": "218",
+		"Word": "陳",
+		"Simplified": "陈",
+		"Pinyin": "Chén",
+		"English": "Chen (surname)"
+	},
+	{
+		"Id": "219",
+		"Word": "午飯",
+		"Simplified": "午饭",
+		"Pinyin": "wǔfàn",
+		"English": "lunch"
+	},
+	{
+		"Id": "220",
+		"Word": "一起",
+		"Simplified": "一起",
+		"Pinyin": "yìqǐ",
+		"English": "together"
+	},
+	{
+		"Id": "221",
+		"Word": "參觀",
+		"Simplified": "参观",
+		"Pinyin": "cānguān",
+		"English": "to tour"
+	},
+	{
+		"Id": "222",
+		"Word": "工廠",
+		"Simplified": "工厂",
+		"Pinyin": "gōngchǎng",
+		"English": "factory"
+	},
+	{
+		"Id": "223",
+		"Word": "晚上",
+		"Simplified": "晚上",
+		"Pinyin": "wǎnshàng",
+		"English": "evening"
+	},
+	{
+		"Id": "224",
+		"Word": "東方",
+		"Simplified": "东方",
+		"Pinyin": "dōngfāng",
+		"English": "eastern"
+	},
+	{
+		"Id": "225",
+		"Word": "哇",
+		"Simplified": "哇",
+		"Pinyin": "wa",
+		"English": "wow"
+	},
+	{
+		"Id": "226",
+		"Word": "事情",
+		"Simplified": "事情",
+		"Pinyin": "shìqíng",
+		"English": "matter/ affair/ thing"
+	},
+	{
+		"Id": "227",
+		"Word": "大家",
+		"Simplified": "大家",
+		"Pinyin": "dàjiā",
+		"English": "everyone/ everybody"
+	},
+	{
+		"Id": "228",
+		"Word": "從",
+		"Simplified": "从",
+		"Pinyin": "cóng",
+		"English": "from"
+	},
+	{
+		"Id": "229",
+		"Word": "美國人",
+		"Simplified": "美国人",
+		"Pinyin": "měiguó rén",
+		"English": "American"
+	},
+	{
+		"Id": "230",
+		"Word": "中國",
+		"Simplified": "中国",
+		"Pinyin": "Zhōngguó",
+		"English": "China"
+	},
+	{
+		"Id": "231",
+		"Word": "馬",
+		"Simplified": "马",
+		"Pinyin": "mǎ",
+		"English": "Ma (surname)"
+	},
+	{
+		"Id": "232",
+		"Word": "愛",
+		"Simplified": "爱",
+		"Pinyin": "ài",
+		"English": "to love"
+	},
+	{
+		"Id": "233",
+		"Word": "鳳爪",
+		"Simplified": "凤爪",
+		"Pinyin": "fèngzhǎo",
+		"English": "chicken feet"
+	},
+	{
+		"Id": "234",
+		"Word": "隨便",
+		"Simplified": "随便",
+		"Pinyin": "suíbiàn",
+		"English": "as one pleases"
+	},
+	{
+		"Id": "235",
+		"Word": "份",
+		"Simplified": "份",
+		"Pinyin": "fèn",
+		"English": "portion/ share"
+	},
+	{
+		"Id": "236",
+		"Word": "白酒",
+		"Simplified": "白酒",
+		"Pinyin": "báijiǔ",
+		"English": "rice wine"
+	},
+	{
+		"Id": "237",
+		"Word": "乾杯",
+		"Simplified": "干杯",
+		"Pinyin": "gānbēi",
+		"English": "cheers/ toast"
+	},
+	{
+		"Id": "238",
+		"Word": "嘗",
+		"Simplified": "尝",
+		"Pinyin": "cháng",
+		"English": "to taste"
+	},
+	{
+		"Id": "239",
+		"Word": "鳳爪",
+		"Simplified": "凤爪",
+		"Pinyin": "fèngzhǎo",
+		"English": "chicken feet"
+	},
+	{
+		"Id": "240",
+		"Word": "味道",
+		"Simplified": "味道",
+		"Pinyin": "wèidào",
+		"English": "flavor/ taste"
+	},
+	{
+		"Id": "241",
+		"Word": "還好",
+		"Simplified": "还好",
+		"Pinyin": "hái hǎo",
+		"English": "passable/ so-so"
+	},
+	{
+		"Id": "242",
+		"Word": "空",
+		"Simplified": "空",
+		"Pinyin": "kòng",
+		"English": "free time/ empty"
+	},
+	{
+		"Id": "243",
+		"Word": "杭州",
+		"Simplified": "杭州",
+		"Pinyin": "Hángzhōu",
+		"English": "Hangzhou"
+	},
+	{
+		"Id": "244",
+		"Word": "好啊",
+		"Simplified": "好啊",
+		"Pinyin": "hǎo ā",
+		"English": "sure/ okay"
+	},
+	{
+		"Id": "245",
+		"Word": "火車站",
+		"Simplified": "火车站",
+		"Pinyin": "huǒchēzhàn",
+		"English": "train station"
+	},
+	{
+		"Id": "246",
+		"Word": "電話號碼",
+		"Simplified": "电话号码",
+		"Pinyin": "diànhuà hàomǎ",
+		"English": "telephone number"
+	},
+	{
+		"Id": "247",
+		"Word": "迷路",
+		"Simplified": "迷路",
+		"Pinyin": "mílù",
+		"English": "to get lost"
+	},
+	{
+		"Id": "248",
+		"Word": "小賣部",
+		"Simplified": "小卖部",
+		"Pinyin": "xiǎomàibù",
+		"English": "small shop"
+	},
+	{
+		"Id": "249",
+		"Word": "過去",
+		"Simplified": "过去",
+		"Pinyin": "guòqù",
+		"English": "to go over/ to cross over"
+	},
+	{
+		"Id": "250",
+		"Word": "等",
+		"Simplified": "等",
+		"Pinyin": "děng",
+		"English": "to wait"
+	},
+	{
+		"Id": "251",
+		"Word": "一會兒",
+		"Simplified": "一会儿",
+		"Pinyin": "yíhuìr",
+		"English": "a while"
+	},
+	{
+		"Id": "252",
+		"Word": "不客氣",
+		"Simplified": "不客气",
+		"Pinyin": "bú kèqì",
+		"English": "you're welcome"
+	},
+	{
+		"Id": "253",
+		"Word": "女孩",
+		"Simplified": "女孩",
+		"Pinyin": "nǚhái",
+		"English": "girl"
+	},
+	{
+		"Id": "254",
+		"Word": "星期",
+		"Simplified": "星期",
+		"Pinyin": "xīngqī",
+		"English": "week"
+	},
+	{
+		"Id": "255",
+		"Word": "計劃",
+		"Simplified": "计划",
+		"Pinyin": "jìhuà",
+		"English": "plan"
+	},
+	{
+		"Id": "256",
+		"Word": "時間",
+		"Simplified": "时间",
+		"Pinyin": "shíjiān",
+		"English": "time"
+	},
+	{
+		"Id": "257",
+		"Word": "外灘",
+		"Simplified": "外滩",
+		"Pinyin": "Wàitān",
+		"English": "The Bund"
+	},
+	{
+		"Id": "258",
+		"Word": "順便",
+		"Simplified": "顺便",
+		"Pinyin": "shùnbiàn",
+		"English": "on the way/ while one is at it"
+	},
+	{
+		"Id": "259",
+		"Word": "博物館",
+		"Simplified": "博物馆",
+		"Pinyin": "bówùguǎn",
+		"English": "musuem"
+	},
+	{
+		"Id": "260",
+		"Word": "看看",
+		"Simplified": "看看",
+		"Pinyin": "kànkan",
+		"English": "to take a look"
+	},
+	{
+		"Id": "261",
+		"Word": "一定",
+		"Simplified": "一定",
+		"Pinyin": "yídìng",
+		"English": "definitely/ certainly"
+	},
+	{
+		"Id": "262",
+		"Word": "玉器市場",
+		"Simplified": "玉器市场",
+		"Pinyin": "yùqì shìchǎng",
+		"English": "jade market"
+	},
+	{
+		"Id": "263",
+		"Word": "遠",
+		"Simplified": "远",
+		"Pinyin": "yuǎn",
+		"English": "far"
+	},
+	{
+		"Id": "264",
+		"Word": "可以",
+		"Simplified": "可以",
+		"Pinyin": "kěyǐ",
+		"English": "can"
+	},
+	{
+		"Id": "265",
+		"Word": "礼物",
+		"Simplified": "礼物",
+		"Pinyin": "lǐwù",
+		"English": "gift/ present"
+	},
+	{
+		"Id": "266",
+		"Word": "帮",
+		"Simplified": "帮",
+		"Pinyin": "bāng",
+		"English": "help"
+	},
+	{
+		"Id": "267",
+		"Word": "請問",
+		"Simplified": "请问",
+		"Pinyin": "qǐng wèn",
+		"English": "may i ask"
+	},
+	{
+		"Id": "268",
+		"Word": "博物館",
+		"Simplified": "博物馆",
+		"Pinyin": "bówù guǎn",
+		"English": "museum"
+	},
+	{
+		"Id": "269",
+		"Word": "幾點",
+		"Simplified": "几点",
+		"Pinyin": "jǐ diǎn",
+		"English": "what time"
+	},
+	{
+		"Id": "270",
+		"Word": "好吧",
+		"Simplified": "好吧",
+		"Pinyin": "hǎoba",
+		"English": "all right"
+	},
+	{
+		"Id": "271",
+		"Word": "后",
+		"Simplified": "后",
+		"Pinyin": "hòu",
+		"English": "after"
+	},
+	{
+		"Id": "272",
+		"Word": "張",
+		"Simplified": "张",
+		"Pinyin": "zhāng",
+		"English": "measure word for flat objects"
+	},
+	{
+		"Id": "273",
+		"Word": "不好意思",
+		"Simplified": "不好意思",
+		"Pinyin": "bùhǎoyìsi",
+		"English": "sorry"
+	},
+	{
+		"Id": "274",
+		"Word": "拍照",
+		"Simplified": "拍照",
+		"Pinyin": "pāizhào",
+		"English": "to take a photograph"
+	},
+	{
+		"Id": "275",
+		"Word": "推薦",
+		"Simplified": "推荐",
+		"Pinyin": "tuījiàn",
+		"English": "to recommend"
+	},
+	{
+		"Id": "276",
+		"Word": "宮爆雞丁",
+		"Simplified": "宫爆鸡丁",
+		"Pinyin": "gōngbào jīdīng",
+		"English": "kungpao chicken"
+	},
+	{
+		"Id": "277",
+		"Word": "菜",
+		"Simplified": "菜",
+		"Pinyin": "cài",
+		"English": "dish (food)"
+	},
+	{
+		"Id": "278",
+		"Word": "水煮牛肉",
+		"Simplified": "水煮牛肉",
+		"Pinyin": "shuǐ zhǔ niúròu",
+		"English": "stewed spicy beef in oil"
+	},
+	{
+		"Id": "279",
+		"Word": "南京",
+		"Simplified": "南京",
+		"Pinyin": "Nánjīng",
+		"English": "Nanjing"
+	},
+	{
+		"Id": "280",
+		"Word": "路",
+		"Simplified": "路",
+		"Pinyin": "lù",
+		"English": "road/ way"
+	},
+	{
+		"Id": "281",
+		"Word": "對不起",
+		"Simplified": "对不起",
+		"Pinyin": "duìbùqǐ",
+		"English": "sorry/ excuse me"
+	},
+	{
+		"Id": "282",
+		"Word": "福州",
+		"Simplified": "福州",
+		"Pinyin": "Fúzhōu",
+		"English": "Fuzhou"
+	},
+	{
+		"Id": "283",
+		"Word": "長城",
+		"Simplified": "长城",
+		"Pinyin": "Chángchéng",
+		"English": "the Great Wall"
+	},
+	{
+		"Id": "284",
+		"Word": "直",
+		"Simplified": "直",
+		"Pinyin": "zhí",
+		"English": "straight"
+	},
+	{
+		"Id": "285",
+		"Word": "紅綠燈",
+		"Simplified": "红绿灯",
+		"Pinyin": "hónglǜdēng",
+		"English": "traffic light"
+	},
+	{
+		"Id": "286",
+		"Word": "左",
+		"Simplified": "左",
+		"Pinyin": "zuǒ",
+		"English": "left"
+	},
+	{
+		"Id": "287",
+		"Word": "轉",
+		"Simplified": "转",
+		"Pinyin": "zhuǎn",
+		"English": "to turn"
+	},
+	{
+		"Id": "288",
+		"Word": "碗",
+		"Simplified": "碗",
+		"Pinyin": "wǎn",
+		"English": "bowl"
+	},
+	{
+		"Id": "289",
+		"Word": "米飯",
+		"Simplified": "米饭",
+		"Pinyin": "mǐfàn",
+		"English": "rice"
+	},
+	{
+		"Id": "290",
+		"Word": "煎包",
+		"Simplified": "煎包",
+		"Pinyin": "jiānbāo",
+		"English": "fried stuffed bun"
+	},
+	{
+		"Id": "291",
+		"Word": "餡兒",
+		"Simplified": "馅儿",
+		"Pinyin": "xiànr",
+		"English": "filling"
+	},
+	{
+		"Id": "292",
+		"Word": "帶",
+		"Simplified": "带",
+		"Pinyin": "dài",
+		"English": "to bring"
+	},
+	{
+		"Id": "293",
+		"Word": "嗯",
+		"Simplified": "嗯",
+		"Pinyin": "en",
+		"English": "uh-huh/ hmm/ huh"
+	},
+	{
+		"Id": "294",
+		"Word": "覺得",
+		"Simplified": "觉得",
+		"Pinyin": "juéde",
+		"English": "to feel/ to think"
+	},
+	{
+		"Id": "295",
+		"Word": "找",
+		"Simplified": "找",
+		"Pinyin": "zhǎo",
+		"English": "to find/ to look for"
+	},
+	{
+		"Id": "296",
+		"Word": "時間",
+		"Simplified": "时间",
+		"Pinyin": "shíjiān",
+		"English": "time"
+	},
+	{
+		"Id": "297",
+		"Word": "聊",
+		"Simplified": "聊",
+		"Pinyin": "liáo",
+		"English": "to chat"
+	},
+	{
+		"Id": "298",
+		"Word": "週末",
+		"Simplified": "周末",
+		"Pinyin": "zhōumò",
+		"English": "weekend"
+	},
+	{
+		"Id": "299",
+		"Word": "請",
+		"Simplified": "请",
+		"Pinyin": "qǐng",
+		"English": "please"
+	},
+	{
+		"Id": "300",
+		"Word": "阿姨",
+		"Simplified": "阿姨",
+		"Pinyin": "āyí",
+		"English": "auntie"
+	},
+	{
+		"Id": "301",
+		"Word": "愛人",
+		"Simplified": "爱人",
+		"Pinyin": "àirén",
+		"English": "spouse/ lover"
+	},
+	{
+		"Id": "302",
+		"Word": "坐",
+		"Simplified": "坐",
+		"Pinyin": "zuò",
+		"English": "to sit"
+	},
+	{
+		"Id": "303",
+		"Word": "家",
+		"Simplified": "家",
+		"Pinyin": "jiā",
+		"English": "home/ family"
+	},
+	{
+		"Id": "304",
+		"Word": "兒子",
+		"Simplified": "儿子",
+		"Pinyin": "érzi",
+		"English": "son"
+	},
+	{
+		"Id": "305",
+		"Word": "爸爸",
+		"Simplified": "爸爸",
+		"Pinyin": "bàba",
+		"English": "dad"
+	},
+	{
+		"Id": "306",
+		"Word": "飯",
+		"Simplified": "饭",
+		"Pinyin": "fàn",
+		"English": "rice/ food"
+	},
+	{
+		"Id": "307",
+		"Word": "好了",
+		"Simplified": "好了",
+		"Pinyin": "hǎo le",
+		"English": "finished/ to be ready"
+	},
+	{
+		"Id": "308",
+		"Word": "魚",
+		"Simplified": "鱼",
+		"Pinyin": "yú",
+		"English": "fish"
+	},
+	{
+		"Id": "309",
+		"Word": "哪裡哪裡",
+		"Simplified": "哪里哪里",
+		"Pinyin": "nǎlǐ nǎlǐ",
+		"English": "you flatter me"
+	},
+	{
+		"Id": "310",
+		"Word": "點",
+		"Simplified": "点",
+		"Pinyin": "diǎn",
+		"English": "a little"
+	},
+	{
+		"Id": "311",
+		"Word": "已經",
+		"Simplified": "已经",
+		"Pinyin": "yǐjīng",
+		"English": "already"
+	},
+	{
+		"Id": "312",
+		"Word": "吃飽了",
+		"Simplified": "吃饱了",
+		"Pinyin": "chī bǎo le",
+		"English": "full (of food)"
+	},
+	{
+		"Id": "313",
+		"Word": "中國人",
+		"Simplified": "中国人",
+		"Pinyin": "Zhōngguórén",
+		"English": "Chinese people"
+	},
+	{
+		"Id": "314",
+		"Word": "公園",
+		"Simplified": "公园",
+		"Pinyin": "gōngyuán",
+		"English": "park"
+	},
+	{
+		"Id": "315",
+		"Word": "忙",
+		"Simplified": "忙",
+		"Pinyin": "máng",
+		"English": "busy"
+	},
+	{
+		"Id": "316",
+		"Word": "好的",
+		"Simplified": "好的",
+		"Pinyin": "hǎo de",
+		"English": "okay"
+	},
+	{
+		"Id": "317",
+		"Word": "再見",
+		"Simplified": "再见",
+		"Pinyin": "zàijiàn",
+		"English": "good bye"
+	},
+	{
+		"Id": "318",
+		"Word": "熱",
+		"Simplified": "热",
+		"Pinyin": "rè",
+		"English": "hot"
+	},
+	{
+		"Id": "319",
+		"Word": "辣",
+		"Simplified": "辣",
+		"Pinyin": "là",
+		"English": "hot/ spicy"
+	},
+	{
+		"Id": "320",
+		"Word": "不行",
+		"Simplified": "不行",
+		"Pinyin": "bùxíng",
+		"English": "not ok"
+	},
+	{
+		"Id": "321",
+		"Word": "你呢",
+		"Simplified": "你呢",
+		"Pinyin": "nǐ ne",
+		"English": "how about you"
+	},
+	{
+		"Id": "322",
+		"Word": "你好",
+		"Simplified": "你好",
+		"Pinyin": "nǐhǎo",
+		"English": "hello"
+	},
+	{
+		"Id": "323",
+		"Word": "你",
+		"Simplified": "你",
+		"Pinyin": "nǐ",
+		"English": "you"
+	},
+	{
+		"Id": "324",
+		"Word": "我",
+		"Simplified": "我",
+		"Pinyin": "wǒ",
+		"English": "I"
+	},
+	{
+		"Id": "325",
+		"Word": "好",
+		"Simplified": "好",
+		"Pinyin": "hǎo",
+		"English": "good"
+	},
+	{
+		"Id": "326",
+		"Word": "叫",
+		"Simplified": "叫",
+		"Pinyin": "jiào",
+		"English": "to call for"
+	},
+	{
+		"Id": "327",
+		"Word": "和",
+		"Simplified": "和",
+		"Pinyin": "hé",
+		"English": "and/ with"
+	},
+	{
+		"Id": "328",
+		"Word": "但(是)",
+		"Simplified": "但(是)",
+		"Pinyin": "dàn(shì)",
+		"English": "but"
+	},
+	{
+		"Id": "329",
+		"Word": "個",
+		"Simplified": "个",
+		"Pinyin": "gè",
+		"English": "measure word"
+	},
+	{
+		"Id": "330",
+		"Word": "張飛",
+		"Simplified": "张飞",
+		"Pinyin": "Zhāng Fēi",
+		"English": "Zhang Fei"
+	},
+	{
+		"Id": "331",
+		"Word": "馬麗",
+		"Simplified": "马丽",
+		"Pinyin": "Mǎ Lì",
+		"English": "Ma Li"
+	},
+	{
+		"Id": "332",
+		"Word": "一點兒",
+		"Simplified": "一点儿",
+		"Pinyin": "yìdiǎnr",
+		"English": "a bit"
+	},
+	{
+		"Id": "333",
+		"Word": "服務員",
+		"Simplified": "服务员",
+		"Pinyin": "fúwùyuán",
+		"English": "waiter"
+	},
+	{
+		"Id": "334",
+		"Word": "還",
+		"Simplified": "还",
+		"Pinyin": "hái",
+		"English": "also"
+	},
+	{
+		"Id": "335",
+		"Word": "孩子",
+		"Simplified": "孩子",
+		"Pinyin": "háizi",
+		"English": "child"
+	},
+	{
+		"Id": "336",
+		"Word": "真",
+		"Simplified": "真",
+		"Pinyin": "zhēn",
+		"English": "really"
+	},
+	{
+		"Id": "337",
+		"Word": "可愛",
+		"Simplified": "可爱",
+		"Pinyin": "kěài",
+		"English": "cute"
+	},
+	{
+		"Id": "338",
+		"Word": "女兒",
+		"Simplified": "女儿",
+		"Pinyin": "nǚ'ér",
+		"English": "daughter"
+	},
+	{
+		"Id": "339",
+		"Word": "登記",
+		"Simplified": "登记",
+		"Pinyin": "dēngjì",
+		"English": "to register"
+	},
+	{
+		"Id": "340",
+		"Word": "好久",
+		"Simplified": "好久",
+		"Pinyin": "hǎojiǔ",
+		"English": "long time"
+	},
+	{
+		"Id": "341",
+		"Word": "差不多",
+		"Simplified": "差不多",
+		"Pinyin": "chàbùduō",
+		"English": "more or less"
+	},
+	{
+		"Id": "342",
+		"Word": "應該",
+		"Simplified": "应该",
+		"Pinyin": "yīnggāi",
+		"English": "should"
+	},
+	{
+		"Id": "343",
+		"Word": "後天",
+		"Simplified": "后天",
+		"Pinyin": "hòutiān",
+		"English": "the day after tomorrow"
+	},
+	{
+		"Id": "344",
+		"Word": "告訴",
+		"Simplified": "告诉",
+		"Pinyin": "gàosù",
+		"English": "to tell"
+	},
+	{
+		"Id": "345",
+		"Word": "出去",
+		"Simplified": "出去",
+		"Pinyin": "chūqù",
+		"English": "to  get out"
+	},
+	{
+		"Id": "346",
+		"Word": "玩兒",
+		"Simplified": "玩儿",
+		"Pinyin": "wánr",
+		"English": "to play"
+	},
+	{
+		"Id": "347",
+		"Word": "親戚",
+		"Simplified": "亲戚",
+		"Pinyin": "qīnqì",
+		"English": "relative"
+	},
+	{
+		"Id": "348",
+		"Word": "都",
+		"Simplified": "都",
+		"Pinyin": "dōu",
+		"English": "all/ both"
+	},
+	{
+		"Id": "349",
+		"Word": "幹",
+		"Simplified": "干",
+		"Pinyin": "gàn",
+		"English": "to do"
+	},
+	{
+		"Id": "350",
+		"Word": "秘密",
+		"Simplified": "秘密",
+		"Pinyin": "mìmì",
+		"English": "secret"
+	},
+	{
+		"Id": "351",
+		"Word": "宋慶齡",
+		"Simplified": "宋庆龄",
+		"Pinyin": "Sòng Qìnglíng",
+		"English": "Soong Ching-ling"
+	},
+	{
+		"Id": "352",
+		"Word": "孫中山",
+		"Simplified": "孙中山",
+		"Pinyin": "Sūn Zhōngshān",
+		"English": "Sun Yat-Sen"
+	},
+	{
+		"Id": "353",
+		"Word": "誰",
+		"Simplified": "谁",
+		"Pinyin": "shéi",
+		"English": "who"
+	},
+	{
+		"Id": "354",
+		"Word": "新天地",
+		"Simplified": "新天地",
+		"Pinyin": "Xīntiāndì",
+		"English": "Xintiandi"
+	},
+	{
+		"Id": "355",
+		"Word": "就是",
+		"Simplified": "就是",
+		"Pinyin": "jiùshì",
+		"English": "to be (emphasized)"
+	},
+	{
+		"Id": "356",
+		"Word": "人民廣場",
+		"Simplified": "人民广场",
+		"Pinyin": "Rénmín Guǎngchǎng",
+		"English": "People's Square"
+	},
+	{
+		"Id": "357",
+		"Word": "跳舞",
+		"Simplified": "跳舞",
+		"Pinyin": "tiàowǔ",
+		"English": "to dance"
+	},
+	{
+		"Id": "358",
+		"Word": "有空",
+		"Simplified": "有空",
+		"Pinyin": "yǒu kòng",
+		"English": "to have free time/to be free"
+	},
+	{
+		"Id": "359",
+		"Word": "最近",
+		"Simplified": "最近",
+		"Pinyin": "zuìjìn",
+		"English": "recently"
+	},
+	{
+		"Id": "360",
+		"Word": "這麼",
+		"Simplified": "这么",
+		"Pinyin": "zhème",
+		"English": "so very"
+	},
+	{
+		"Id": "361",
+		"Word": "不過",
+		"Simplified": "不过",
+		"Pinyin": "búguò",
+		"English": "but"
+	},
+	{
+		"Id": "362",
+		"Word": "開心",
+		"Simplified": "开心",
+		"Pinyin": "kāixīn",
+		"English": "happy"
+	},
+	{
+		"Id": "363",
+		"Word": "没想到",
+		"Simplified": "没想到",
+		"Pinyin": "méi xiǎngdào",
+		"English": "to not realize"
+	},
+	{
+		"Id": "364",
+		"Word": "大",
+		"Simplified": "大",
+		"Pinyin": "dà",
+		"English": "big/ large"
+	},
+	{
+		"Id": "365",
+		"Word": "可惜",
+		"Simplified": "可惜",
+		"Pinyin": "kěxī",
+		"English": "it's a pity/ it's a shame"
+	},
+	{
+		"Id": "366",
+		"Word": "回來",
+		"Simplified": "回来",
+		"Pinyin": "huílái",
+		"English": "to return"
+	},
+	{
+		"Id": "367",
+		"Word": "機會",
+		"Simplified": "机会",
+		"Pinyin": "jīhuì",
+		"English": "opportunity"
+	},
+	{
+		"Id": "368",
+		"Word": "學",
+		"Simplified": "学",
+		"Pinyin": "xué",
+		"English": "to study/ to learn"
+	},
+	{
+		"Id": "369",
+		"Word": "慢走",
+		"Simplified": "慢走",
+		"Pinyin": "mànzǒu",
+		"English": "take care"
+	},
+	{
+		"Id": "370",
+		"Word": "問",
+		"Simplified": "问",
+		"Pinyin": "wèn",
+		"English": "to ask"
+	},
+	{
+		"Id": "371",
+		"Word": "告訴",
+		"Simplified": "告诉",
+		"Pinyin": "gàosù",
+		"English": "to tell"
+	},
+	{
+		"Id": "372",
+		"Word": "長城",
+		"Simplified": "长城",
+		"Pinyin": "chángchéng",
+		"English": "Great Wall"
+	},
+	{
+		"Id": "373",
+		"Word": "飯店",
+		"Simplified": "饭店",
+		"Pinyin": "fàndiàn",
+		"English": "hotel"
+	},
+	{
+		"Id": "374",
+		"Word": "訂",
+		"Simplified": "订",
+		"Pinyin": "dìng",
+		"English": "to reserve"
+	},
+	{
+		"Id": "375",
+		"Word": "房間",
+		"Simplified": "房间",
+		"Pinyin": "fángjiān",
+		"English": "room"
+	},
+	{
+		"Id": "376",
+		"Word": "請問",
+		"Simplified": "请问",
+		"Pinyin": "qǐngwèn",
+		"English": "may i ask"
+	},
+	{
+		"Id": "377",
+		"Word": "確認",
+		"Simplified": "确认",
+		"Pinyin": "quèrèn",
+		"English": "confirmation"
+	},
+	{
+		"Id": "378",
+		"Word": "網絡",
+		"Simplified": "网络",
+		"Pinyin": "wǎngluò",
+		"English": "internet"
+	},
+	{
+		"Id": "379",
+		"Word": "早餐",
+		"Simplified": "早餐",
+		"Pinyin": "zǎocān",
+		"English": "breakfast"
+	},
+	{
+		"Id": "380",
+		"Word": "幾點",
+		"Simplified": "几点",
+		"Pinyin": "jǐ diǎn",
+		"English": "what time"
+	},
+	{
+		"Id": "381",
+		"Word": "從",
+		"Simplified": "从",
+		"Pinyin": "cóng",
+		"English": "from"
+	},
+	{
+		"Id": "382",
+		"Word": "早上",
+		"Simplified": "早上",
+		"Pinyin": "zǎoshàng",
+		"English": "morning"
+	},
+	{
+		"Id": "383",
+		"Word": "到",
+		"Simplified": "到",
+		"Pinyin": "dào",
+		"English": "to"
+	},
+	{
+		"Id": "384",
+		"Word": "怎麼樣",
+		"Simplified": "怎么样",
+		"Pinyin": "zěnmeyàng",
+		"English": "how is it"
+	},
+	{
+		"Id": "385",
+		"Word": "而且",
+		"Simplified": "而且",
+		"Pinyin": "érqiě",
+		"English": "furthermore/ plus"
+	},
+	{
+		"Id": "386",
+		"Word": "帥",
+		"Simplified": "帅",
+		"Pinyin": "shuài",
+		"English": "handsome"
+	},
+	{
+		"Id": "387",
+		"Word": "同事",
+		"Simplified": "同事",
+		"Pinyin": "tóngshì",
+		"English": "co-worker"
+	},
+	{
+		"Id": "388",
+		"Word": "女人",
+		"Simplified": "女人",
+		"Pinyin": "nǚrén",
+		"English": "woman"
+	},
+	{
+		"Id": "389",
+		"Word": "加班",
+		"Simplified": "加班",
+		"Pinyin": "jiābān",
+		"English": "to work overtime"
+	},
+	{
+		"Id": "390",
+		"Word": "特別",
+		"Simplified": "特别",
+		"Pinyin": "tèbié",
+		"English": "especially"
+	},
+	{
+		"Id": "391",
+		"Word": "巴士",
+		"Simplified": "巴士",
+		"Pinyin": "bāshì",
+		"English": "bus"
+	},
+	{
+		"Id": "392",
+		"Word": "圖書館",
+		"Simplified": "图书馆",
+		"Pinyin": "túshū guǎn",
+		"English": "library"
+	},
+	{
+		"Id": "393",
+		"Word": "小說",
+		"Simplified": "小说",
+		"Pinyin": "xiǎoshuō",
+		"English": "novel"
+	},
+	{
+		"Id": "394",
+		"Word": "筆記本",
+		"Simplified": "笔记本",
+		"Pinyin": "bǐjìběn",
+		"English": "notebook"
+	},
+	{
+		"Id": "395",
+		"Word": "黑色",
+		"Simplified": "黑色",
+		"Pinyin": "hēisè",
+		"English": "black"
+	},
+	{
+		"Id": "396",
+		"Word": "白色",
+		"Simplified": "白色",
+		"Pinyin": "báisè",
+		"English": "white"
+	},
+	{
+		"Id": "397",
+		"Word": "花生",
+		"Simplified": "花生",
+		"Pinyin": "huāshēng",
+		"English": "peanut"
+	},
+	{
+		"Id": "398",
+		"Word": "先",
+		"Simplified": "先",
+		"Pinyin": "xiān",
+		"English": "first"
+	},
+	{
+		"Id": "399",
+		"Word": "打印機",
+		"Simplified": "打印机",
+		"Pinyin": "dǎyìnjī",
+		"English": "printer"
+	},
+	{
+		"Id": "400",
+		"Word": "給",
+		"Simplified": "给",
+		"Pinyin": "gěi",
+		"English": "to give"
+	},
+	{
+		"Id": "401",
+		"Word": "根本",
+		"Simplified": "根本",
+		"Pinyin": "gēnběn",
+		"English": "at all"
+	},
+	{
+		"Id": "402",
+		"Word": "需要",
+		"Simplified": "需要",
+		"Pinyin": "xūyào",
+		"English": "to need"
+	},
+	{
+		"Id": "403",
+		"Word": "打開",
+		"Simplified": "打开",
+		"Pinyin": "dǎkāi",
+		"English": "to turn on"
+	},
+	{
+		"Id": "404",
+		"Word": "那",
+		"Simplified": "那",
+		"Pinyin": "nà",
+		"English": "then"
+	},
+	{
+		"Id": "405",
+		"Word": "老公",
+		"Simplified": "老公",
+		"Pinyin": "lǎogōng",
+		"English": "husband"
+	},
+	{
+		"Id": "406",
+		"Word": "老婆",
+		"Simplified": "老婆",
+		"Pinyin": "lǎopo",
+		"English": "wife"
+	},
+	{
+		"Id": "407",
+		"Word": "浪漫",
+		"Simplified": "浪漫",
+		"Pinyin": "làngmàn",
+		"English": "romantic"
+	},
+	{
+		"Id": "408",
+		"Word": "最",
+		"Simplified": "最",
+		"Pinyin": "zuì",
+		"English": "most"
+	},
+	{
+		"Id": "409",
+		"Word": "没事",
+		"Simplified": "沒事",
+		"Pinyin": "méishì",
+		"English": "you're welcome"
+	},
+	{
+		"Id": "410",
+		"Word": "或者",
+		"Simplified": "或者",
+		"Pinyin": "huòzhě",
+		"English": "or"
+	},
+	{
+		"Id": "411",
+		"Word": "小",
+		"Simplified": "小",
+		"Pinyin": "xiǎo",
+		"English": "small"
+	},
+	{
+		"Id": "412",
+		"Word": "一直",
+		"Simplified": "一直",
+		"Pinyin": "yìzhí",
+		"English": "continuously"
+	},
+	{
+		"Id": "413",
+		"Word": "電腦",
+		"Simplified": "电脑",
+		"Pinyin": "diànnǎo",
+		"English": "computer"
+	},
+	{
+		"Id": "414",
+		"Word": "改天",
+		"Simplified": "改天",
+		"Pinyin": "gǎitiān",
+		"English": "to change days"
+	},
+	{
+		"Id": "415",
+		"Word": "休息",
+		"Simplified": "休息",
+		"Pinyin": "xiūxi",
+		"English": "to rest"
+	},
+	{
+		"Id": "416",
+		"Word": "鑰匙",
+		"Simplified": "钥匙",
+		"Pinyin": "yàoshi",
+		"English": "key"
+	},
+	{
+		"Id": "417",
+		"Word": "以前",
+		"Simplified": "以前",
+		"Pinyin": "yǐqián",
+		"English": "before"
+	},
+	{
+		"Id": "418",
+		"Word": "晚飯",
+		"Simplified": "晚饭",
+		"Pinyin": "wǎnfàn",
+		"English": "dinner"
+	},
+	{
+		"Id": "419",
+		"Word": "沒問題",
+		"Simplified": "没问题",
+		"Pinyin": "méiwèntí",
+		"English": "no problem"
+	},
+	{
+		"Id": "420",
+		"Word": "酒吧",
+		"Simplified": "酒吧",
+		"Pinyin": "jiǔbā",
+		"English": "bar"
+	},
+	{
+		"Id": "421",
+		"Word": "四川菜",
+		"Simplified": "四川菜",
+		"Pinyin": "sìchuān cài",
+		"English": "Sichuanese food"
+	},
+	{
+		"Id": "422",
+		"Word": "電視",
+		"Simplified": "电视",
+		"Pinyin": "diànshì",
+		"English": "television"
+	},
+	{
+		"Id": "423",
+		"Word": "胡同",
+		"Simplified": "胡同",
+		"Pinyin": "hútòng",
+		"English": "Hutong"
+	},
+	{
+		"Id": "424",
+		"Word": "涼快",
+		"Simplified": "凉快",
+		"Pinyin": "liángkuài",
+		"English": "cool"
+	},
+	{
+		"Id": "425",
+		"Word": "冬天",
+		"Simplified": "冬天",
+		"Pinyin": "dōngtiān",
+		"English": "winter"
+	},
+	{
+		"Id": "426",
+		"Word": "跟",
+		"Simplified": "跟",
+		"Pinyin": "gēn",
+		"English": "with"
+	},
+	{
+		"Id": "427",
+		"Word": "重要",
+		"Simplified": "重要",
+		"Pinyin": "zhòngyào",
+		"English": "important"
+	},
+	{
+		"Id": "428",
+		"Word": "聽話",
+		"Simplified": "听话",
+		"Pinyin": "tīnghuà",
+		"English": "obedient"
+	},
+	{
+		"Id": "429",
+		"Word": "做飯",
+		"Simplified": "做饭",
+		"Pinyin": "zuòfàn",
+		"English": "to cook food"
+	},
+	{
+		"Id": "430",
+		"Word": "威士忌",
+		"Simplified": "威士忌",
+		"Pinyin": "wēishìjì",
+		"English": "whiskey"
+	},
+	{
+		"Id": "431",
+		"Word": "看",
+		"Simplified": "看",
+		"Pinyin": "kàn",
+		"English": "to watch"
+	},
+	{
+		"Id": "432",
+		"Word": "忙",
+		"Simplified": "忙",
+		"Pinyin": "máng",
+		"English": "busy"
+	},
+	{
+		"Id": "433",
+		"Word": "還",
+		"Simplified": "还",
+		"Pinyin": "hái",
+		"English": "still"
+	},
+	{
+		"Id": "434",
+		"Word": "英語",
+		"Simplified": "英语",
+		"Pinyin": "yīngyǔ",
+		"English": "English"
+	},
+	{
+		"Id": "435",
+		"Word": "方便",
+		"Simplified": "方便",
+		"Pinyin": "fāngbiàn",
+		"English": "convenient"
+	},
+	{
+		"Id": "436",
+		"Word": "喜歡",
+		"Simplified": "喜欢",
+		"Pinyin": "xǐhuān",
+		"English": "like"
+	},
+	{
+		"Id": "437",
+		"Word": "噁心",
+		"Simplified": "恶心",
+		"Pinyin": "ěxīn",
+		"English": "disgusting"
+	},
+	{
+		"Id": "438",
+		"Word": "雨",
+		"Simplified": "雨",
+		"Pinyin": "yǔ",
+		"English": "rain"
+	},
+	{
+		"Id": "439",
+		"Word": "這麼",
+		"Simplified": "这么",
+		"Pinyin": "zhème",
+		"English": "so"
+	},
+	{
+		"Id": "440",
+		"Word": "注意",
+		"Simplified": "注意",
+		"Pinyin": "zhùyì",
+		"English": "to pay attention"
+	},
+	{
+		"Id": "441",
+		"Word": "身體",
+		"Simplified": "身体",
+		"Pinyin": "shēntǐ",
+		"English": "body"
+	},
+	{
+		"Id": "442",
+		"Word": "會不會",
+		"Simplified": "会不会",
+		"Pinyin": "huìbúhuì",
+		"English": "can or can not"
+	},
+	{
+		"Id": "443",
+		"Word": "試試",
+		"Simplified": "试试",
+		"Pinyin": "shìshi",
+		"English": "to try"
+	},
+	{
+		"Id": "444",
+		"Word": "切",
+		"Simplified": "切",
+		"Pinyin": "qiē",
+		"English": "to cut"
+	},
+	{
+		"Id": "445",
+		"Word": "位置",
+		"Simplified": "位置",
+		"Pinyin": "wèizhi",
+		"English": "position"
+	},
+	{
+		"Id": "446",
+		"Word": "當然",
+		"Simplified": "当然",
+		"Pinyin": "dāngrán",
+		"English": "of course"
+	},
+	{
+		"Id": "447",
+		"Word": "舞臺",
+		"Simplified": "舞台",
+		"Pinyin": "wǔtái",
+		"English": "stage"
+	},
+	{
+		"Id": "448",
+		"Word": "鼓手",
+		"Simplified": "鼓手",
+		"Pinyin": "gǔ shǒu",
+		"English": "drummer"
+	},
+	{
+		"Id": "449",
+		"Word": "歌手",
+		"Simplified": "歌手",
+		"Pinyin": "gēshǒu",
+		"English": "singer"
+	},
+	{
+		"Id": "450",
+		"Word": "吉他手",
+		"Simplified": "吉他手",
+		"Pinyin": "jítāshǒu",
+		"English": "guitarist"
+	},
+	{
+		"Id": "451",
+		"Word": "樂隊",
+		"Simplified": "乐队",
+		"Pinyin": "yuèduì",
+		"English": "band"
+	},
+	{
+		"Id": "452",
+		"Word": "演出",
+		"Simplified": "演出",
+		"Pinyin": "yǎnchū",
+		"English": "performance"
+	},
+	{
+		"Id": "453",
+		"Word": "音樂會",
+		"Simplified": "音乐会",
+		"Pinyin": "yīnyuèhuì",
+		"English": "concert"
+	},
+	{
+		"Id": "454",
+		"Word": "停車",
+		"Simplified": "停车",
+		"Pinyin": "tíngchē",
+		"English": "to park a vehicle"
+	},
+	{
+		"Id": "455",
+		"Word": "停車場",
+		"Simplified": "停车场",
+		"Pinyin": "tíngchē chǎng",
+		"English": "parking lot"
+	},
+	{
+		"Id": "456",
+		"Word": "車棚",
+		"Simplified": "车棚",
+		"Pinyin": "chēpéng",
+		"English": "bike shed"
+	},
+	{
+		"Id": "457",
+		"Word": "鎖",
+		"Simplified": "锁",
+		"Pinyin": "suǒ",
+		"English": "to lock"
+	},
+	{
+		"Id": "458",
+		"Word": "擔心",
+		"Simplified": "担心",
+		"Pinyin": "dānxīn",
+		"English": "to worry"
+	},
+	{
+		"Id": "459",
+		"Word": "鑰匙",
+		"Simplified": "钥匙",
+		"Pinyin": "yàoshi",
+		"English": "key"
+	},
+	{
+		"Id": "460",
+		"Word": "紅綠燈",
+		"Simplified": "红绿灯",
+		"Pinyin": "hónglǜdēng",
+		"English": "traffic light"
+	},
+	{
+		"Id": "461",
+		"Word": "小偷",
+		"Simplified": "小偷",
+		"Pinyin": "xiǎotōu",
+		"English": "thief"
+	},
+	{
+		"Id": "462",
+		"Word": "丢",
+		"Simplified": "丢",
+		"Pinyin": "diū",
+		"English": "to lose"
+	},
+	{
+		"Id": "463",
+		"Word": "坐坐",
+		"Simplified": "坐坐",
+		"Pinyin": "zuòzuo",
+		"English": "to sit for a while"
+	},
+	{
+		"Id": "464",
+		"Word": "走走",
+		"Simplified": "走走",
+		"Pinyin": "zǒuzou",
+		"English": "to go for a walk"
+	},
+	{
+		"Id": "465",
+		"Word": "看看",
+		"Simplified": "看看",
+		"Pinyin": "kànkan",
+		"English": "to take a look"
+	},
+	{
+		"Id": "466",
+		"Word": "浪費時間",
+		"Simplified": "浪费时间",
+		"Pinyin": "làngfèi shíjiān",
+		"English": "to waste time"
+	},
+	{
+		"Id": "467",
+		"Word": "打發時間",
+		"Simplified": "打发时间",
+		"Pinyin": "dǎfāshíjiān",
+		"English": "to kill time"
+	},
+	{
+		"Id": "468",
+		"Word": "網癮",
+		"Simplified": "网瘾",
+		"Pinyin": "wǎngyǐn",
+		"English": "Internet addiction"
+	},
+	{
+		"Id": "469",
+		"Word": "無聊",
+		"Simplified": "无聊",
+		"Pinyin": "wúliáo",
+		"English": "bored"
+	},
+	{
+		"Id": "470",
+		"Word": "電腦",
+		"Simplified": "电脑",
+		"Pinyin": "diànnǎo",
+		"English": "computer"
+	},
+	{
+		"Id": "471",
+		"Word": "運動",
+		"Simplified": "运动",
+		"Pinyin": "yùndòng",
+		"English": "sports"
+	},
+	{
+		"Id": "472",
+		"Word": "比賽",
+		"Simplified": "比赛",
+		"Pinyin": "bǐsài",
+		"English": "match; competition"
+	},
+	{
+		"Id": "473",
+		"Word": "冠軍",
+		"Simplified": "冠军",
+		"Pinyin": "guànjūn",
+		"English": "champion"
+	},
+	{
+		"Id": "474",
+		"Word": "團隊",
+		"Simplified": "团队",
+		"Pinyin": "tuánduì",
+		"English": "team"
+	},
+	{
+		"Id": "475",
+		"Word": "運動員",
+		"Simplified": "运动员",
+		"Pinyin": "yùndòngyuán",
+		"English": "athlete"
+	},
+	{
+		"Id": "476",
+		"Word": "進球",
+		"Simplified": "进球",
+		"Pinyin": "jìnqiú",
+		"English": "to score a goal"
+	},
+	{
+		"Id": "477",
+		"Word": "緊張",
+		"Simplified": "紧张",
+		"Pinyin": "jǐnzhāng",
+		"English": "nervous"
+	},
+	{
+		"Id": "478",
+		"Word": "世界杯",
+		"Simplified": "世界杯",
+		"Pinyin": "shìjièbēi",
+		"English": "World Cup"
+	},
+	{
+		"Id": "479",
+		"Word": "足球隊",
+		"Simplified": "足球队",
+		"Pinyin": "zúqiúduì",
+		"English": "football team"
+	},
+	{
+		"Id": "480",
+		"Word": "跑步",
+		"Simplified": "跑步",
+		"Pinyin": "pǎobù",
+		"English": "to run"
+	},
+	{
+		"Id": "481",
+		"Word": "下坡",
+		"Simplified": "下坡",
+		"Pinyin": "xiàpō",
+		"English": "downhill"
+	},
+	{
+		"Id": "482",
+		"Word": "上坡",
+		"Simplified": "上坡",
+		"Pinyin": "shàngpō",
+		"English": "uphill"
+	},
+	{
+		"Id": "483",
+		"Word": "困難",
+		"Simplified": "困难",
+		"Pinyin": "kùnnan",
+		"English": "difficult"
+	},
+	{
+		"Id": "484",
+		"Word": "級別",
+		"Simplified": "级别",
+		"Pinyin": "jíbié",
+		"English": "level"
+	},
+	{
+		"Id": "485",
+		"Word": "跑步機",
+		"Simplified": "跑步机",
+		"Pinyin": "pǎobù jī",
+		"English": "treadmill"
+	},
+	{
+		"Id": "486",
+		"Word": "公里",
+		"Simplified": "公里",
+		"Pinyin": "gōnglǐ",
+		"English": "kilometer"
+	},
+	{
+		"Id": "487",
+		"Word": "圈",
+		"Simplified": "圈",
+		"Pinyin": "quān",
+		"English": "lap"
+	},
+	{
+		"Id": "488",
+		"Word": "遠",
+		"Simplified": "远",
+		"Pinyin": "yuǎn",
+		"English": "far"
+	},
+	{
+		"Id": "489",
+		"Word": "近",
+		"Simplified": "近",
+		"Pinyin": "jìn",
+		"English": "near"
+	},
+	{
+		"Id": "490",
+		"Word": "跑道",
+		"Simplified": "跑道",
+		"Pinyin": "pǎodào",
+		"English": "running track"
+	},
+	{
+		"Id": "491",
+		"Word": "冰球",
+		"Simplified": "冰球",
+		"Pinyin": "bīngqiú",
+		"English": "ice hockey"
+	},
+	{
+		"Id": "492",
+		"Word": "球杆",
+		"Simplified": "球杆",
+		"Pinyin": "qiú gān",
+		"English": "hockey stick"
+	},
+	{
+		"Id": "493",
+		"Word": "運動衫",
+		"Simplified": "运动衫",
+		"Pinyin": "yùndòng shān",
+		"English": "sports jersey"
+	},
+	{
+		"Id": "494",
+		"Word": "滑冰",
+		"Simplified": "滑冰",
+		"Pinyin": "huábīng",
+		"English": "to skate"
+	},
+	{
+		"Id": "495",
+		"Word": "防守",
+		"Simplified": "防守",
+		"Pinyin": "fángshǒu",
+		"English": "to play defense"
+	},
+	{
+		"Id": "496",
+		"Word": "進攻",
+		"Simplified": "进攻",
+		"Pinyin": "jìngōng",
+		"English": "to play offense"
+	},
+	{
+		"Id": "497",
+		"Word": "滑冰場",
+		"Simplified": "滑冰场",
+		"Pinyin": "huábīngchǎng",
+		"English": "skating rink"
+	},
+	{
+		"Id": "498",
+		"Word": "冰鞋",
+		"Simplified": "冰鞋",
+		"Pinyin": "bīngxié",
+		"English": "ice skates"
+	},
+	{
+		"Id": "499",
+		"Word": "棒球",
+		"Simplified": "棒球",
+		"Pinyin": "bàngqiú",
+		"English": "baseball"
+	},
+	{
+		"Id": "500",
+		"Word": "撞車",
+		"Simplified": "撞车",
+		"Pinyin": "zhuàngchē",
+		"English": "to crash a car"
+	},
+	{
+		"Id": "501",
+		"Word": "保險",
+		"Simplified": "保险",
+		"Pinyin": "bǎoxiǎn",
+		"English": "insurance"
+	},
+	{
+		"Id": "502",
+		"Word": "刮蹭",
+		"Simplified": "刮蹭",
+		"Pinyin": "guā cèng",
+		"English": "to scratch"
+	},
+	{
+		"Id": "503",
+		"Word": "故障",
+		"Simplified": "故障",
+		"Pinyin": "gùzhàng",
+		"English": "breakdown"
+	},
+	{
+		"Id": "504",
+		"Word": "意外",
+		"Simplified": "意外",
+		"Pinyin": "yìwài",
+		"English": "accident"
+	},
+	{
+		"Id": "505",
+		"Word": "安全",
+		"Simplified": "安全",
+		"Pinyin": "ānquán",
+		"English": "safety/ safe"
+	},
+	{
+		"Id": "506",
+		"Word": "安全帶",
+		"Simplified": "安全带",
+		"Pinyin": "ānquándài",
+		"English": "seat belt"
+	},
+	{
+		"Id": "507",
+		"Word": "喇叭",
+		"Simplified": "喇叭",
+		"Pinyin": "lǎba",
+		"English": "horn"
+	},
+	{
+		"Id": "508",
+		"Word": "單行道",
+		"Simplified": "单行道",
+		"Pinyin": "dānxíngdào",
+		"English": "one way street"
+	},
+	{
+		"Id": "509",
+		"Word": "時候",
+		"Simplified": "时候",
+		"Pinyin": "shíhòu",
+		"English": "time"
+	},
+	{
+		"Id": "510",
+		"Word": "雨衣",
+		"Simplified": "雨衣",
+		"Pinyin": "yǔyī",
+		"English": "raincoat"
+	},
+	{
+		"Id": "511",
+		"Word": "防水",
+		"Simplified": "防水",
+		"Pinyin": "fángshuǐ",
+		"English": "to be waterproof"
+	},
+	{
+		"Id": "512",
+		"Word": "保障",
+		"Simplified": "保障",
+		"Pinyin": "bǎozhàng",
+		"English": "guarantee"
+	},
+	{
+		"Id": "513",
+		"Word": "保單",
+		"Simplified": "保单",
+		"Pinyin": "bǎodān",
+		"English": "warranty"
+	},
+	{
+		"Id": "514",
+		"Word": "換貨",
+		"Simplified": "换货",
+		"Pinyin": "huàn huò",
+		"English": "to exchange a product"
+	},
+	{
+		"Id": "515",
+		"Word": "客戶服務",
+		"Simplified": "客户服务",
+		"Pinyin": "kèhùfúwù",
+		"English": "customer service"
+	},
+	{
+		"Id": "516",
+		"Word": "游泳",
+		"Simplified": "游泳",
+		"Pinyin": "yóuyǒng",
+		"English": "to swim"
+	},
+	{
+		"Id": "517",
+		"Word": "退貨",
+		"Simplified": "退货",
+		"Pinyin": "tuìhuò",
+		"English": "to return a product"
+	},
+	{
+		"Id": "518",
+		"Word": "瓶裝水",
+		"Simplified": "瓶装水",
+		"Pinyin": "píngzhuāngshuǐ",
+		"English": "bottled water"
+	},
+	{
+		"Id": "519",
+		"Word": "污染",
+		"Simplified": "污染",
+		"Pinyin": "wūrǎn",
+		"English": "pollution"
+	},
+	{
+		"Id": "520",
+		"Word": "河",
+		"Simplified": "河",
+		"Pinyin": "hé",
+		"English": "river"
+	},
+	{
+		"Id": "521",
+		"Word": "湖",
+		"Simplified": "湖",
+		"Pinyin": "hú",
+		"English": "lake"
+	},
+	{
+		"Id": "522",
+		"Word": "資源",
+		"Simplified": "资源",
+		"Pinyin": "zīyuán",
+		"English": "resources"
+	},
+	{
+		"Id": "523",
+		"Word": "有毒",
+		"Simplified": "有毒",
+		"Pinyin": "yǒudú",
+		"English": "toxic"
+	},
+	{
+		"Id": "524",
+		"Word": "刷牙",
+		"Simplified": "刷牙",
+		"Pinyin": "shuāyá",
+		"English": "to brush teeth"
+	},
+	{
+		"Id": "525",
+		"Word": "洗澡",
+		"Simplified": "洗澡",
+		"Pinyin": "xǐzǎo",
+		"English": "to shower"
+	},
+	{
+		"Id": "526",
+		"Word": "運河",
+		"Simplified": "运河",
+		"Pinyin": "yùnhé",
+		"English": "canal"
+	},
+	{
+		"Id": "527",
+		"Word": "河",
+		"Simplified": "河",
+		"Pinyin": "hé",
+		"English": "river"
+	},
+	{
+		"Id": "528",
+		"Word": "水位",
+		"Simplified": "水位",
+		"Pinyin": "shuǐwèi",
+		"English": "water level"
+	},
+	{
+		"Id": "529",
+		"Word": "水質",
+		"Simplified": "水质",
+		"Pinyin": "shuǐzhì",
+		"English": "water quality"
+	},
+	{
+		"Id": "530",
+		"Word": "乾旱",
+		"Simplified": "干旱",
+		"Pinyin": "gānhàn",
+		"English": "drought"
+	},
+	{
+		"Id": "531",
+		"Word": "幹",
+		"Simplified": "干",
+		"Pinyin": "gàn",
+		"English": "to do"
+	},
+	{
+		"Id": "532",
+		"Word": "釣魚",
+		"Simplified": "钓鱼",
+		"Pinyin": "diàoyú",
+		"English": "to fish"
+	},
+	{
+		"Id": "533",
+		"Word": "划船",
+		"Simplified": "划船",
+		"Pinyin": "huáchuán",
+		"English": "to go boating/ to raw a boat"
+	},
+	{
+		"Id": "534",
+		"Word": "游泳",
+		"Simplified": "游泳",
+		"Pinyin": "yóuyǒng",
+		"English": "to swim"
+	},
+	{
+		"Id": "535",
+		"Word": "開玩笑",
+		"Simplified": "开玩笑",
+		"Pinyin": "kāi wánxiào",
+		"English": "to joke/ be kidding"
+	},
+	{
+		"Id": "536",
+		"Word": "發票",
+		"Simplified": "发票",
+		"Pinyin": "fāpiào",
+		"English": "receipt"
+	},
+	{
+		"Id": "537",
+		"Word": "交給",
+		"Simplified": "交给",
+		"Pinyin": "jiāogěi",
+		"English": "to hand something over to someone"
+	},
+	{
+		"Id": "538",
+		"Word": "老闆",
+		"Simplified": "老板",
+		"Pinyin": "lǎobǎn",
+		"English": "boss"
+	},
+	{
+		"Id": "539",
+		"Word": "支出",
+		"Simplified": "支出",
+		"Pinyin": "zhīchū",
+		"English": "expense"
+	},
+	{
+		"Id": "540",
+		"Word": "收入",
+		"Simplified": "收入",
+		"Pinyin": "shōurù",
+		"English": "income"
+	},
+	{
+		"Id": "541",
+		"Word": "重要",
+		"Simplified": "重要",
+		"Pinyin": "zhòngyào",
+		"English": "important"
+	},
+	{
+		"Id": "542",
+		"Word": "工資",
+		"Simplified": "工资",
+		"Pinyin": "gōngzī",
+		"English": "salary"
+	},
+	{
+		"Id": "543",
+		"Word": "刮",
+		"Simplified": "刮",
+		"Pinyin": "guā",
+		"English": "to scratch"
+	},
+	{
+		"Id": "544",
+		"Word": "合同",
+		"Simplified": "合同",
+		"Pinyin": "hétóng",
+		"English": "contract"
+	},
+	{
+		"Id": "545",
+		"Word": "淘氣",
+		"Simplified": "淘气",
+		"Pinyin": "táoqì",
+		"English": "naughty"
+	},
+	{
+		"Id": "546",
+		"Word": "旅行",
+		"Simplified": "旅行",
+		"Pinyin": "lǚxíng",
+		"English": "travel"
+	},
+	{
+		"Id": "547",
+		"Word": "工作",
+		"Simplified": "工作",
+		"Pinyin": "gōngzuò",
+		"English": "work"
+	},
+	{
+		"Id": "548",
+		"Word": "房貸",
+		"Simplified": "房贷",
+		"Pinyin": "fángdài",
+		"English": "mortgage"
+	},
+	{
+		"Id": "549",
+		"Word": "全職",
+		"Simplified": "全职",
+		"Pinyin": "quánzhí",
+		"English": "full time job"
+	},
+	{
+		"Id": "550",
+		"Word": "兼職",
+		"Simplified": "兼职",
+		"Pinyin": "jiānzhí",
+		"English": "part time job"
+	},
+	{
+		"Id": "551",
+		"Word": "冒險",
+		"Simplified": "冒险",
+		"Pinyin": "màoxiǎn",
+		"English": "adventure"
+	},
+	{
+		"Id": "552",
+		"Word": "照顧",
+		"Simplified": "照顾",
+		"Pinyin": "zhàogu",
+		"English": "take care of"
+	},
+	{
+		"Id": "553",
+		"Word": "機會",
+		"Simplified": "机会",
+		"Pinyin": "jīhuì",
+		"English": "opportunity"
+	},
+	{
+		"Id": "554",
+		"Word": "千萬",
+		"Simplified": "千万",
+		"Pinyin": "qiānwàn",
+		"English": "whatever you do"
+	},
+	{
+		"Id": "555",
+		"Word": "交通",
+		"Simplified": "交通",
+		"Pinyin": "jiāotōng",
+		"English": "transportation"
+	},
+	{
+		"Id": "556",
+		"Word": "傘",
+		"Simplified": "伞",
+		"Pinyin": "sǎn",
+		"English": "umbrella"
+	},
+	{
+		"Id": "557",
+		"Word": "自來水",
+		"Simplified": "自来水",
+		"Pinyin": "zìláishuǐ",
+		"English": "tap water"
+	},
+	{
+		"Id": "558",
+		"Word": "賣掉",
+		"Simplified": "卖掉",
+		"Pinyin": "màidiào",
+		"English": "to sell off"
+	},
+	{
+		"Id": "559",
+		"Word": "人口",
+		"Simplified": "人口",
+		"Pinyin": "rénkǒu",
+		"English": "population"
+	},
+	{
+		"Id": "560",
+		"Word": "網民",
+		"Simplified": "网民",
+		"Pinyin": "wǎngmín",
+		"English": "Internet users"
+	},
+	{
+		"Id": "561",
+		"Word": "經濟",
+		"Simplified": "经济",
+		"Pinyin": "jīngjì",
+		"English": "economy"
+	},
+	{
+		"Id": "562",
+		"Word": "世界大國",
+		"Simplified": "世界大国",
+		"Pinyin": "shìjièdàguó",
+		"English": "global power"
+	},
+	{
+		"Id": "563",
+		"Word": "生產",
+		"Simplified": "生产",
+		"Pinyin": "shēngchǎn",
+		"English": "manufacturing"
+	},
+	{
+		"Id": "564",
+		"Word": "民族",
+		"Simplified": "民族",
+		"Pinyin": "mínzú",
+		"English": "ethnicity"
+	},
+	{
+		"Id": "565",
+		"Word": "少數民族",
+		"Simplified": "少数民族",
+		"Pinyin": "shǎoshùmínzú",
+		"English": "ethnic minority"
+	},
+	{
+		"Id": "566",
+		"Word": "多數",
+		"Simplified": "多数",
+		"Pinyin": "duōshù",
+		"English": "majority"
+	},
+	{
+		"Id": "567",
+		"Word": "語言",
+		"Simplified": "语言",
+		"Pinyin": "yǔyán",
+		"English": "language"
+	},
+	{
+		"Id": "568",
+		"Word": "工人",
+		"Simplified": "工人",
+		"Pinyin": "gōng rén",
+		"English": "worker"
+	},
+	{
+		"Id": "569",
+		"Word": "想象",
+		"Simplified": "想象",
+		"Pinyin": "xiǎngxiàng",
+		"English": "imagine"
+	},
+	{
+		"Id": "570",
+		"Word": "建築",
+		"Simplified": "建筑",
+		"Pinyin": "jiànzhù",
+		"English": "construction"
+	},
+	{
+		"Id": "571",
+		"Word": "移民",
+		"Simplified": "移民",
+		"Pinyin": "yímín",
+		"English": "emigrate"
+	},
+	{
+		"Id": "572",
+		"Word": "努力工作",
+		"Simplified": "努力工作",
+		"Pinyin": "nǔlì gōngzuò",
+		"English": "hard working"
+	},
+	{
+		"Id": "573",
+		"Word": "誠實",
+		"Simplified": "诚实",
+		"Pinyin": "chéngshí",
+		"English": "honest"
+	},
+	{
+		"Id": "574",
+		"Word": "辛苦",
+		"Simplified": "辛苦",
+		"Pinyin": "xīnkǔ",
+		"English": "hard (of work)"
+	},
+	{
+		"Id": "575",
+		"Word": "安全帽",
+		"Simplified": "安全帽",
+		"Pinyin": "ānquánmào",
+		"English": "safety helmet"
+	},
+	{
+		"Id": "576",
+		"Word": "假期",
+		"Simplified": "假期",
+		"Pinyin": "jiàqī",
+		"English": "vacation"
+	},
+	{
+		"Id": "577",
+		"Word": "網站",
+		"Simplified": "网站",
+		"Pinyin": "wǎng zhàn",
+		"English": "website"
+	},
+	{
+		"Id": "578",
+		"Word": "節目",
+		"Simplified": "节目",
+		"Pinyin": "jiémù",
+		"English": "show"
+	},
+	{
+		"Id": "579",
+		"Word": "視頻",
+		"Simplified": "视频",
+		"Pinyin": "shìpín",
+		"English": "video"
+	},
+	{
+		"Id": "580",
+		"Word": "電視劇",
+		"Simplified": "电视剧",
+		"Pinyin": "diànshìjù",
+		"English": "TV drama"
+	},
+	{
+		"Id": "581",
+		"Word": "廣告",
+		"Simplified": "广告",
+		"Pinyin": "guǎnggào",
+		"English": "advertisement"
+	},
+	{
+		"Id": "582",
+		"Word": "電影",
+		"Simplified": "电影",
+		"Pinyin": "diànyǐng",
+		"English": "movie"
+	},
+	{
+		"Id": "583",
+		"Word": "流行",
+		"Simplified": "流行",
+		"Pinyin": "liúxíng",
+		"English": "popular"
+	},
+	{
+		"Id": "584",
+		"Word": "主持人",
+		"Simplified": "主持人",
+		"Pinyin": "zhǔchírén",
+		"English": "host"
+	},
+	{
+		"Id": "585",
+		"Word": "公寓",
+		"Simplified": "公寓",
+		"Pinyin": "gōngyù",
+		"English": "apartment"
+	},
+	{
+		"Id": "586",
+		"Word": "租",
+		"Simplified": "租",
+		"Pinyin": "zū",
+		"English": "to rent"
+	},
+	{
+		"Id": "587",
+		"Word": "遙控器",
+		"Simplified": "遥控器",
+		"Pinyin": "yáokòngqì",
+		"English": "remote control"
+	},
+	{
+		"Id": "588",
+		"Word": "不好意思",
+		"Simplified": "不好意思",
+		"Pinyin": "bùhǎoyìsi",
+		"English": "I'm sorry"
+	},
+	{
+		"Id": "589",
+		"Word": "要不",
+		"Simplified": "要不",
+		"Pinyin": "yàobù",
+		"English": "otherwise/ why not"
+	},
+	{
+		"Id": "590",
+		"Word": "酷",
+		"Simplified": "酷",
+		"Pinyin": "kù",
+		"English": "cool"
+	},
+	{
+		"Id": "591",
+		"Word": "房租",
+		"Simplified": "房租",
+		"Pinyin": "fángzū",
+		"English": "rent"
+	},
+	{
+		"Id": "592",
+		"Word": "房東",
+		"Simplified": "房东",
+		"Pinyin": "fángdōng",
+		"English": "landlord"
+	},
+	{
+		"Id": "593",
+		"Word": "哎呀",
+		"Simplified": "哎呀",
+		"Pinyin": "āiya",
+		"English": "Goodness gracious!"
+	},
+	{
+		"Id": "594",
+		"Word": "下次",
+		"Simplified": "下次",
+		"Pinyin": "xiàcì",
+		"English": "next time"
+	},
+	{
+		"Id": "595",
+		"Word": "經理",
+		"Simplified": "经理",
+		"Pinyin": "jīnglǐ",
+		"English": "manager"
+	},
+	{
+		"Id": "596",
+		"Word": "迷信",
+		"Simplified": "迷信",
+		"Pinyin": "míxìn",
+		"English": "superstitious"
+	},
+	{
+		"Id": "597",
+		"Word": "長",
+		"Simplified": "长",
+		"Pinyin": "cháng",
+		"English": "long"
+	},
+	{
+		"Id": "598",
+		"Word": "短",
+		"Simplified": "短",
+		"Pinyin": "duǎn",
+		"English": "short"
+	},
+	{
+		"Id": "599",
+		"Word": "香",
+		"Simplified": "香",
+		"Pinyin": "xiāng",
+		"English": "fragrant"
+	},
+	{
+		"Id": "600",
+		"Word": "一家人",
+		"Simplified": "一家人",
+		"Pinyin": "yì jiārén",
+		"English": "family"
+	},
+	{
+		"Id": "601",
+		"Word": "父親",
+		"Simplified": "父亲",
+		"Pinyin": "fùqīn",
+		"English": "father"
+	},
+	{
+		"Id": "602",
+		"Word": "回",
+		"Simplified": "回",
+		"Pinyin": "huí",
+		"English": "return"
+	},
+	{
+		"Id": "603",
+		"Word": "家",
+		"Simplified": "家",
+		"Pinyin": "jiā",
+		"English": "home"
+	},
+	{
+		"Id": "604",
+		"Word": "看",
+		"Simplified": "看",
+		"Pinyin": "kàn",
+		"English": "to watch"
+	},
+	{
+		"Id": "605",
+		"Word": "男人",
+		"Simplified": "男人",
+		"Pinyin": "nánrén",
+		"English": "man"
+	},
+	{
+		"Id": "606",
+		"Word": "淋浴",
+		"Simplified": "淋浴",
+		"Pinyin": "línyù",
+		"English": "shower"
+	},
+	{
+		"Id": "607",
+		"Word": "兄弟",
+		"Simplified": "兄弟",
+		"Pinyin": "xiōngdi",
+		"English": "brother"
+	},
+	{
+		"Id": "608",
+		"Word": "嬰兒",
+		"Simplified": "婴儿",
+		"Pinyin": "yīng'ér",
+		"English": "baby"
+	},
+	{
+		"Id": "609",
+		"Word": "燈泡",
+		"Simplified": "灯泡",
+		"Pinyin": "dēngpào",
+		"English": "light bulb"
+	},
+	{
+		"Id": "610",
+		"Word": "拿",
+		"Simplified": "拿",
+		"Pinyin": "ná",
+		"English": "to hold"
+	},
+	{
+		"Id": "611",
+		"Word": "蛋糕",
+		"Simplified": "蛋糕",
+		"Pinyin": "dàngāo",
+		"English": "cake"
+	},
+	{
+		"Id": "612",
+		"Word": "晚",
+		"Simplified": "晚",
+		"Pinyin": "wǎn",
+		"English": "late"
+	},
+	{
+		"Id": "613",
+		"Word": "打折",
+		"Simplified": "打折",
+		"Pinyin": "dǎzhé",
+		"English": "to have a discount"
+	},
+	{
+		"Id": "614",
+		"Word": "愛",
+		"Simplified": "爱",
+		"Pinyin": "ài",
+		"English": "love"
+	},
+	{
+		"Id": "615",
+		"Word": "算了",
+		"Simplified": "算了",
+		"Pinyin": "suànle",
+		"English": "forget it"
+	},
+	{
+		"Id": "616",
+		"Word": "道歉",
+		"Simplified": "道歉",
+		"Pinyin": "dàoqiàn",
+		"English": "to apologize"
+	},
+	{
+		"Id": "617",
+		"Word": "壞",
+		"Simplified": "坏",
+		"Pinyin": "huài",
+		"English": "bad"
+	},
+	{
+		"Id": "618",
+		"Word": "換",
+		"Simplified": "换",
+		"Pinyin": "huàn",
+		"English": "to change"
+	},
+	{
+		"Id": "619",
+		"Word": "下個月",
+		"Simplified": "下个月",
+		"Pinyin": "xià gè yuè",
+		"English": "next month"
+	},
+	{
+		"Id": "620",
+		"Word": "房子",
+		"Simplified": "房子",
+		"Pinyin": "fángzi",
+		"English": "house"
+	},
+	{
+		"Id": "621",
+		"Word": "平房",
+		"Simplified": "平房",
+		"Pinyin": "píngfáng",
+		"English": "single story house"
+	},
+	{
+		"Id": "622",
+		"Word": "舊",
+		"Simplified": "旧",
+		"Pinyin": "jiù",
+		"English": "old"
+	},
+	{
+		"Id": "623",
+		"Word": "小吃",
+		"Simplified": "小吃",
+		"Pinyin": "xiǎochī",
+		"English": "snack"
+	},
+	{
+		"Id": "624",
+		"Word": "母亲",
+		"Simplified": "母親",
+		"Pinyin": "mǔ qīn",
+		"English": "mother"
+	},
+	{
+		"Id": "625",
+		"Word": "爱人",
+		"Simplified": "愛人",
+		"Pinyin": "ài rén",
+		"English": "spouse"
+	},
+	{
+		"Id": "626",
+		"Word": "姑姑",
+		"Simplified": "姑姑",
+		"Pinyin": "gūgu",
+		"English": "aunt"
+	},
+	{
+		"Id": "627",
+		"Word": "沒電",
+		"Simplified": "没电",
+		"Pinyin": "méidiàn",
+		"English": "to have no power/ to be out of batteries"
+	},
+	{
+		"Id": "628",
+		"Word": "幽默的",
+		"Simplified": "幽默的",
+		"Pinyin": "yōumò de",
+		"English": "humorous"
+	},
+	{
+		"Id": "629",
+		"Word": "窄",
+		"Simplified": "窄",
+		"Pinyin": "zhǎi",
+		"English": "narrow"
+	},
+	{
+		"Id": "630",
+		"Word": "伯伯",
+		"Simplified": "伯伯",
+		"Pinyin": "bóbo",
+		"English": "uncle"
+	},
+	{
+		"Id": "631",
+		"Word": "祖母",
+		"Simplified": "祖母",
+		"Pinyin": "zǔmǔ",
+		"English": "grandmother"
+	},
+	{
+		"Id": "632",
+		"Word": "精力充沛的",
+		"Simplified": "精力充沛的",
+		"Pinyin": "jīnglì chōngpèi de",
+		"English": "energetic"
+	},
+	{
+		"Id": "633",
+		"Word": "嗨！",
+		"Simplified": "嗨！",
+		"Pinyin": "Hài!",
+		"English": "Hi."
+	},
+	{
+		"Id": "634",
+		"Word": "地道",
+		"Simplified": "地道",
+		"Pinyin": "dìdào",
+		"English": "authentic"
+	},
+	{
+		"Id": "635",
+		"Word": "活潑",
+		"Simplified": "活泼",
+		"Pinyin": "huópo",
+		"English": "lively"
+	},
+	{
+		"Id": "636",
+		"Word": "積極",
+		"Simplified": "积极",
+		"Pinyin": "jījí",
+		"English": "active"
+	},
+	{
+		"Id": "637",
+		"Word": "很高興見到你。",
+		"Simplified": "很高兴见到你。",
+		"Pinyin": "Hěn gāoxìng jiàn dào nǐ.",
+		"English": "Nice to meet you."
+	},
+	{
+		"Id": "638",
+		"Word": "你好嗎？",
+		"Simplified": "你好吗？",
+		"Pinyin": "Nǐhǎo ma？",
+		"English": "How are you?"
+	},
+	{
+		"Id": "639",
+		"Word": "對不起。",
+		"Simplified": "对不起。",
+		"Pinyin": "Duìbùqǐ.",
+		"English": "I'm sorry."
+	},
+	{
+		"Id": "640",
+		"Word": "你叫甚麼名字？",
+		"Simplified": "你叫什么名字？",
+		"Pinyin": "Nǐ jiào shénme míngzì?",
+		"English": "What's your name?"
+	},
+	{
+		"Id": "641",
+		"Word": "你來自哪兒？",
+		"Simplified": "你来自哪儿？",
+		"Pinyin": "Nǐ láizì nǎr?",
+		"English": "Where are you from?"
+	},
+	{
+		"Id": "642",
+		"Word": "高",
+		"Simplified": "高",
+		"Pinyin": "gāo",
+		"English": "high"
+	},
+	{
+		"Id": "643",
+		"Word": "低",
+		"Simplified": "低",
+		"Pinyin": "dī",
+		"English": "low"
+	},
+	{
+		"Id": "644",
+		"Word": "平靜",
+		"Simplified": "平静",
+		"Pinyin": "píngjìng",
+		"English": "calm"
+	},
+	{
+		"Id": "645",
+		"Word": "有名的",
+		"Simplified": "有名的",
+		"Pinyin": "yǒumíng de",
+		"English": "famous"
+	},
+	{
+		"Id": "646",
+		"Word": "害羞",
+		"Simplified": "害羞",
+		"Pinyin": "hàixiū",
+		"English": "shy"
+	},
+	{
+		"Id": "647",
+		"Word": "漂亮",
+		"Simplified": "漂亮",
+		"Pinyin": "piàoliang",
+		"English": "beautiful"
+	},
+	{
+		"Id": "648",
+		"Word": "簡單",
+		"Simplified": "简单",
+		"Pinyin": "jiǎndān",
+		"English": "easy"
+	},
+	{
+		"Id": "649",
+		"Word": "認真",
+		"Simplified": "认真",
+		"Pinyin": "rènzhēn",
+		"English": "serious"
+	},
+	{
+		"Id": "650",
+		"Word": "和藹的",
+		"Simplified": "和蔼的",
+		"Pinyin": "héǎi de",
+		"English": "kind"
+	},
+	{
+		"Id": "651",
+		"Word": "雜誌",
+		"Simplified": "杂志",
+		"Pinyin": "zázhì",
+		"English": "magazine"
+	},
+	{
+		"Id": "652",
+		"Word": "寬的",
+		"Simplified": "宽的",
+		"Pinyin": "kuān de",
+		"English": "wide"
+	},
+	{
+		"Id": "653",
+		"Word": "大的",
+		"Simplified": "大的",
+		"Pinyin": "dà de",
+		"English": "big"
+	},
+	{
+		"Id": "654",
+		"Word": "祖父",
+		"Simplified": "祖父",
+		"Pinyin": "zǔfù",
+		"English": "grandfather"
+	},
+	{
+		"Id": "655",
+		"Word": "有禮貌的",
+		"Simplified": "有礼貌的",
+		"Pinyin": "yóulǐmào de",
+		"English": "polite"
+	},
+	{
+		"Id": "656",
+		"Word": "不客氣。",
+		"Simplified": "不客气。",
+		"Pinyin": "Bú kèqi.",
+		"English": "You're welcome."
+	},
+	{
+		"Id": "657",
+		"Word": "不好意思。",
+		"Simplified": "不好意思。",
+		"Pinyin": "Bù hǎo yìsi.",
+		"English": "Excuse me."
+	},
+	{
+		"Id": "658",
+		"Word": "歲",
+		"Simplified": "岁",
+		"Pinyin": "suì",
+		"English": "age"
+	},
+	{
+		"Id": "659",
+		"Word": "哪天",
+		"Simplified": "哪天",
+		"Pinyin": "nǎtiān",
+		"English": "some day"
+	},
+	{
+		"Id": "660",
+		"Word": "有點兒",
+		"Simplified": "有点儿",
+		"Pinyin": "yǒu diǎnr",
+		"English": "to be a little"
+	},
+	{
+		"Id": "661",
+		"Word": "往前",
+		"Simplified": "往前",
+		"Pinyin": "wǎngqián",
+		"English": "forward"
+	},
+	{
+		"Id": "662",
+		"Word": "往後",
+		"Simplified": "往后",
+		"Pinyin": "wǎnghòu",
+		"English": "backward"
+	},
+	{
+		"Id": "663",
+		"Word": "左轉",
+		"Simplified": "左转",
+		"Pinyin": "zuǒzhuǎn",
+		"English": "to turn left"
+	},
+	{
+		"Id": "664",
+		"Word": "右轉",
+		"Simplified": "右转",
+		"Pinyin": "yòuzhuǎn",
+		"English": "to turn right"
+	},
+	{
+		"Id": "665",
+		"Word": "目的地",
+		"Simplified": "目的地",
+		"Pinyin": "mùdìdì",
+		"English": "destination"
+	},
+	{
+		"Id": "666",
+		"Word": "路口",
+		"Simplified": "路口",
+		"Pinyin": "lùkǒu",
+		"English": "intersection"
+	},
+	{
+		"Id": "667",
+		"Word": "紅綠燈",
+		"Simplified": "红绿灯",
+		"Pinyin": "hónglǜdēng",
+		"English": "traffic light"
+	},
+	{
+		"Id": "668",
+		"Word": "天橋",
+		"Simplified": "天桥",
+		"Pinyin": "tiānqiáo",
+		"English": "overpass"
+	},
+	{
+		"Id": "669",
+		"Word": "字",
+		"Simplified": "字",
+		"Pinyin": "zì",
+		"English": "character"
+	},
+	{
+		"Id": "670",
+		"Word": "詞",
+		"Simplified": "词",
+		"Pinyin": "cí",
+		"English": "word"
+	},
+	{
+		"Id": "671",
+		"Word": "認識",
+		"Simplified": "认识",
+		"Pinyin": "rènshi",
+		"English": "to recognize"
+	},
+	{
+		"Id": "672",
+		"Word": "查",
+		"Simplified": "查",
+		"Pinyin": "chá",
+		"English": "to look up"
+	},
+	{
+		"Id": "673",
+		"Word": "字典",
+		"Simplified": "字典",
+		"Pinyin": "zìdiǎn",
+		"English": "dictionary"
+	},
+	{
+		"Id": "674",
+		"Word": "拼音",
+		"Simplified": "拼音",
+		"Pinyin": "pīnyīn",
+		"English": "pinyin"
+	},
+	{
+		"Id": "675",
+		"Word": "部首",
+		"Simplified": "部首",
+		"Pinyin": "bùshǒu",
+		"English": "radical"
+	},
+	{
+		"Id": "676",
+		"Word": "筆劃",
+		"Simplified": "笔划",
+		"Pinyin": "bǐhuà",
+		"English": "stroke"
+	},
+	{
+		"Id": "677",
+		"Word": "護照",
+		"Simplified": "护照",
+		"Pinyin": "hùzhào",
+		"English": "passport"
+	},
+	{
+		"Id": "678",
+		"Word": "簽證",
+		"Simplified": "签证",
+		"Pinyin": "qiānzhèng",
+		"English": "visa"
+	},
+	{
+		"Id": "679",
+		"Word": "背包",
+		"Simplified": "背包",
+		"Pinyin": "bēibāo",
+		"English": "knapsack"
+	},
+	{
+		"Id": "680",
+		"Word": "旅行箱",
+		"Simplified": "旅行箱",
+		"Pinyin": "lǚxíngxiāng",
+		"English": "suitcase"
+	},
+	{
+		"Id": "681",
+		"Word": "旅行",
+		"Simplified": "旅行",
+		"Pinyin": "lǚxíng",
+		"English": "trip"
+	},
+	{
+		"Id": "682",
+		"Word": "兜",
+		"Simplified": "兜",
+		"Pinyin": "dōu",
+		"English": "pocket"
+	},
+	{
+		"Id": "683",
+		"Word": "飛機票",
+		"Simplified": "飞机票",
+		"Pinyin": "fēijīpiào",
+		"English": "flight ticket"
+	},
+	{
+		"Id": "684",
+		"Word": "錢",
+		"Simplified": "钱",
+		"Pinyin": "qián",
+		"English": "money"
+	},
+	{
+		"Id": "685",
+		"Word": "信用卡",
+		"Simplified": "信用卡",
+		"Pinyin": "xìnyòngkǎ",
+		"English": "credit card"
+	},
+	{
+		"Id": "686",
+		"Word": "電源",
+		"Simplified": "电源",
+		"Pinyin": "diànyuán",
+		"English": "power source"
+	},
+	{
+		"Id": "687",
+		"Word": "插",
+		"Simplified": "插",
+		"Pinyin": "chā",
+		"English": "to plug in"
+	},
+	{
+		"Id": "688",
+		"Word": "打開",
+		"Simplified": "打开",
+		"Pinyin": "dǎkāi",
+		"English": "to turn on"
+	},
+	{
+		"Id": "689",
+		"Word": "紙",
+		"Simplified": "纸",
+		"Pinyin": "zhǐ",
+		"English": "paper"
+	},
+	{
+		"Id": "690",
+		"Word": "墨",
+		"Simplified": "墨",
+		"Pinyin": "mò",
+		"English": "ink"
+	},
+	{
+		"Id": "691",
+		"Word": "USB線",
+		"Simplified": "USB线",
+		"Pinyin": "USBxiàn",
+		"English": "USB cable"
+	},
+	{
+		"Id": "692",
+		"Word": "買得起",
+		"Simplified": "买得起",
+		"Pinyin": "mǎideqǐ",
+		"English": "to afford to buy"
+	},
+	{
+		"Id": "693",
+		"Word": "房客",
+		"Simplified": "房客",
+		"Pinyin": "fángkè",
+		"English": "tenant"
+	},
+	{
+		"Id": "694",
+		"Word": "漲",
+		"Simplified": "涨",
+		"Pinyin": "zhǎng",
+		"English": "to raise; on the rise"
+	},
+	{
+		"Id": "695",
+		"Word": "合租",
+		"Simplified": "合租",
+		"Pinyin": "hézū",
+		"English": "to share the rent"
+	},
+	{
+		"Id": "696",
+		"Word": "護士",
+		"Simplified": "护士",
+		"Pinyin": "hùshì",
+		"English": "nurse"
+	},
+	{
+		"Id": "697",
+		"Word": "醫院",
+		"Simplified": "医院",
+		"Pinyin": "yīyuàn",
+		"English": "hospital"
+	},
+	{
+		"Id": "698",
+		"Word": "看病",
+		"Simplified": "看病",
+		"Pinyin": "kànbìng",
+		"English": "to see a doctor"
+	},
+	{
+		"Id": "699",
+		"Word": "流血",
+		"Simplified": "流血",
+		"Pinyin": "liúxuě",
+		"English": "to bleed"
+	},
+	{
+		"Id": "700",
+		"Word": "你好。",
+		"Simplified": "你好。",
+		"Pinyin": "Nǐhǎo.",
+		"English": "Hello."
+	},
+	{
+		"Id": "701",
+		"Word": "傷口",
+		"Simplified": "伤口",
+		"Pinyin": "shāngkǒu",
+		"English": "wound"
+	},
+	{
+		"Id": "702",
+		"Word": "算",
+		"Simplified": "算",
+		"Pinyin": "suàn",
+		"English": "to count as"
+	},
+	{
+		"Id": "703",
+		"Word": "急診",
+		"Simplified": "急诊",
+		"Pinyin": "jízhěn",
+		"English": "emergency case"
+	},
+	{
+		"Id": "704",
+		"Word": "吧臺",
+		"Simplified": "吧台",
+		"Pinyin": "bātái",
+		"English": "the counter in a bar"
+	},
+	{
+		"Id": "705",
+		"Word": "飲料",
+		"Simplified": "饮料",
+		"Pinyin": "yǐnliào",
+		"English": "beverage"
+	},
+	{
+		"Id": "706",
+		"Word": "紅酒",
+		"Simplified": "红酒",
+		"Pinyin": "hóngjiǔ",
+		"English": "red wine"
+	},
+	{
+		"Id": "707",
+		"Word": "酒保",
+		"Simplified": "酒保",
+		"Pinyin": "jiǔ bǎo",
+		"English": "bartender"
+	},
+	{
+		"Id": "708",
+		"Word": "證件",
+		"Simplified": "证件",
+		"Pinyin": "zhèngjiàn",
+		"English": "prove of identity"
+	},
+	{
+		"Id": "709",
+		"Word": "身分證",
+		"Simplified": "身份证",
+		"Pinyin": "shēnfènzhèng",
+		"English": "ID card"
+	},
+	{
+		"Id": "710",
+		"Word": "護照",
+		"Simplified": "护照",
+		"Pinyin": "hùzhào",
+		"English": "passport"
+	},
+	{
+		"Id": "711",
+		"Word": "填表",
+		"Simplified": "填表",
+		"Pinyin": "tiánbiǎo",
+		"English": "to fill in forms"
+	},
+	{
+		"Id": "712",
+		"Word": "入住",
+		"Simplified": "入住",
+		"Pinyin": "rùzhù",
+		"English": "to check in"
+	},
+	{
+		"Id": "713",
+		"Word": "筆",
+		"Simplified": "笔",
+		"Pinyin": "bǐ",
+		"English": "pen"
+	},
+	{
+		"Id": "714",
+		"Word": "下午好。",
+		"Simplified": "下午好。",
+		"Pinyin": "Xiàwǔ hǎo.",
+		"English": "Good afternoon."
+	},
+	{
+		"Id": "715",
+		"Word": "晚上好。",
+		"Simplified": "晚上好。",
+		"Pinyin": "Wǎnshàng hǎo.",
+		"English": "Good evening."
+	},
+	{
+		"Id": "716",
+		"Word": "晚安。",
+		"Simplified": "晚安。",
+		"Pinyin": "Wǎn'ān.",
+		"English": "Good night."
+	},
+	{
+		"Id": "717",
+		"Word": "症狀",
+		"Simplified": "症状",
+		"Pinyin": "zhèngzhuàng",
+		"English": "symptom"
+	},
+	{
+		"Id": "718",
+		"Word": "有痰",
+		"Simplified": "有痰",
+		"Pinyin": "yǒu tán",
+		"English": "to be stuffed up"
+	},
+	{
+		"Id": "719",
+		"Word": "咳嗽",
+		"Simplified": "咳嗽",
+		"Pinyin": "késòu",
+		"English": "cough"
+	},
+	{
+		"Id": "720",
+		"Word": "發燒",
+		"Simplified": "发烧",
+		"Pinyin": "fāshāo",
+		"English": "to have a fever"
+	},
+	{
+		"Id": "721",
+		"Word": "流鼻涕",
+		"Simplified": "流鼻涕",
+		"Pinyin": "liúbítì",
+		"English": "to have a runny nose"
+	},
+	{
+		"Id": "722",
+		"Word": "頭疼",
+		"Simplified": "头疼",
+		"Pinyin": "tóuténg",
+		"English": "to have a headache"
+	},
+	{
+		"Id": "723",
+		"Word": "地鐵",
+		"Simplified": "地铁",
+		"Pinyin": "dìtiě",
+		"English": "subway"
+	},
+	{
+		"Id": "724",
+		"Word": "出租車",
+		"Simplified": "出租车",
+		"Pinyin": "chūzūchē",
+		"English": "cab"
+	},
+	{
+		"Id": "725",
+		"Word": "別人",
+		"Simplified": "别人",
+		"Pinyin": "biérén",
+		"English": "somebody else"
+	},
+	{
+		"Id": "726",
+		"Word": "是的。",
+		"Simplified": "是的。",
+		"Pinyin": "Shì de.",
+		"English": "Yes."
+	},
+	{
+		"Id": "727",
+		"Word": "減肥",
+		"Simplified": "减肥",
+		"Pinyin": "jiǎnféi",
+		"English": "to lose weight"
+	},
+	{
+		"Id": "728",
+		"Word": "鍛鍊",
+		"Simplified": "锻炼",
+		"Pinyin": "duànliàn",
+		"English": "to exercise"
+	},
+	{
+		"Id": "729",
+		"Word": "跑步機",
+		"Simplified": "跑步机",
+		"Pinyin": "pǎobùjī",
+		"English": "treadmill"
+	},
+	{
+		"Id": "730",
+		"Word": "出汗",
+		"Simplified": "出汗",
+		"Pinyin": "chūhàn",
+		"English": "to sweat"
+	},
+	{
+		"Id": "731",
+		"Word": "繼續",
+		"Simplified": "继续",
+		"Pinyin": "jìxù",
+		"English": "to continue"
+	},
+	{
+		"Id": "732",
+		"Word": "再見。",
+		"Simplified": "再见。",
+		"Pinyin": "Zàijiàn.",
+		"English": "Goodbye."
+	},
+	{
+		"Id": "733",
+		"Word": "手機",
+		"Simplified": "手机",
+		"Pinyin": "shǒujī",
+		"English": "cellphone"
+	},
+	{
+		"Id": "734",
+		"Word": "記得",
+		"Simplified": "记得",
+		"Pinyin": "jìde",
+		"English": "to remember"
+	},
+	{
+		"Id": "735",
+		"Word": "打電話",
+		"Simplified": "打电话",
+		"Pinyin": "dǎ diànhuà",
+		"English": "to make a telephone call"
+	},
+	{
+		"Id": "736",
+		"Word": "靜音",
+		"Simplified": "静音",
+		"Pinyin": "jìngyīn",
+		"English": "to mute the sound"
+	},
+	{
+		"Id": "737",
+		"Word": "應該",
+		"Simplified": "应该",
+		"Pinyin": "yīnggāi",
+		"English": "should"
+	},
+	{
+		"Id": "738",
+		"Word": "振動",
+		"Simplified": "振动",
+		"Pinyin": "zhèndòng",
+		"English": "to vibrate"
+	},
+	{
+		"Id": "739",
+		"Word": "買",
+		"Simplified": "买",
+		"Pinyin": "mǎi",
+		"English": "to buy"
+	},
+	{
+		"Id": "740",
+		"Word": "顏色",
+		"Simplified": "颜色",
+		"Pinyin": "yánsè",
+		"English": "color"
+	},
+	{
+		"Id": "741",
+		"Word": "這麼",
+		"Simplified": "这么",
+		"Pinyin": "zhème",
+		"English": "this much"
+	},
+	{
+		"Id": "742",
+		"Word": "貴",
+		"Simplified": "贵",
+		"Pinyin": "guì",
+		"English": "expensive"
+	},
+	{
+		"Id": "743",
+		"Word": "過幾天",
+		"Simplified": "过几天",
+		"Pinyin": "guò jǐ tiān",
+		"English": "after a couple of days"
+	},
+	{
+		"Id": "744",
+		"Word": "老闆",
+		"Simplified": "老板",
+		"Pinyin": "lǎobǎn",
+		"English": "boss"
+	},
+	{
+		"Id": "745",
+		"Word": "要求",
+		"Simplified": "要求",
+		"Pinyin": "yāoqiú",
+		"English": "requirement"
+	},
+	{
+		"Id": "746",
+		"Word": "堂（表 ）兄妹",
+		"Simplified": "堂（ 表）兄妹",
+		"Pinyin": "táng（biǎo） xiōngmèi",
+		"English": "cousin"
+	},
+	{
+		"Id": "747",
+		"Word": "照片",
+		"Simplified": "照片",
+		"Pinyin": "zhàopiān",
+		"English": "photo"
+	},
+	{
+		"Id": "748",
+		"Word": "巴黎",
+		"Simplified": "巴黎",
+		"Pinyin": "Bālí",
+		"English": "Paris"
+	},
+	{
+		"Id": "749",
+		"Word": "首都",
+		"Simplified": "首都",
+		"Pinyin": "shǒudū",
+		"English": "capital"
+	},
+	{
+		"Id": "750",
+		"Word": "法國",
+		"Simplified": "法国",
+		"Pinyin": "Fǎguó",
+		"English": "France"
+	},
+	{
+		"Id": "751",
+		"Word": "戰爭",
+		"Simplified": "战争",
+		"Pinyin": "Zhànzhēng",
+		"English": "war"
+	},
+	{
+		"Id": "752",
+		"Word": "法語",
+		"Simplified": "法语",
+		"Pinyin": "Fǎyǔ",
+		"English": "French"
+	},
+	{
+		"Id": "753",
+		"Word": "點",
+		"Simplified": "点",
+		"Pinyin": "diǎn",
+		"English": "to order"
+	},
+	{
+		"Id": "754",
+		"Word": "宮爆雞丁",
+		"Simplified": "宫爆鸡丁",
+		"Pinyin": "Gōngbàojīdīng",
+		"English": "Gongbao Chicken"
+	},
+	{
+		"Id": "755",
+		"Word": "道",
+		"Simplified": "道",
+		"Pinyin": "dào",
+		"English": "a measure word for dishes"
+	},
+	{
+		"Id": "756",
+		"Word": "大蔥",
+		"Simplified": "大葱",
+		"Pinyin": "dàcōng",
+		"English": "Chinese onion"
+	},
+	{
+		"Id": "757",
+		"Word": "魚香肉絲",
+		"Simplified": "鱼香肉丝",
+		"Pinyin": "Yúxiāngròusī",
+		"English": "shredded pork in chilli sauce"
+	},
+	{
+		"Id": "758",
+		"Word": "酸甜",
+		"Simplified": "酸甜",
+		"Pinyin": "suāntián",
+		"English": "sweet and sour"
+	},
+	{
+		"Id": "759",
+		"Word": "派對",
+		"Simplified": "派对",
+		"Pinyin": "pàiduì",
+		"English": "party"
+	},
+	{
+		"Id": "760",
+		"Word": "特色",
+		"Simplified": "特色",
+		"Pinyin": "tèsè",
+		"English": "characteristics"
+	},
+	{
+		"Id": "761",
+		"Word": "四合院",
+		"Simplified": "四合院",
+		"Pinyin": "sìhéyuàn",
+		"English": "traditional courtyard"
+	},
+	{
+		"Id": "762",
+		"Word": "樓房",
+		"Simplified": "楼房",
+		"Pinyin": "lóufáng",
+		"English": "building"
+	},
+	{
+		"Id": "763",
+		"Word": "鋼琴",
+		"Simplified": "钢琴",
+		"Pinyin": "gāngqín",
+		"English": "piano"
+	},
+	{
+		"Id": "764",
+		"Word": "課",
+		"Simplified": "课",
+		"Pinyin": "kè",
+		"English": "class"
+	},
+	{
+		"Id": "765",
+		"Word": "節",
+		"Simplified": "节",
+		"Pinyin": "jié",
+		"English": "measure word for a single class"
+	},
+	{
+		"Id": "766",
+		"Word": "門",
+		"Simplified": "门",
+		"Pinyin": "mén",
+		"English": "measure word for an entire course"
+	},
+	{
+		"Id": "767",
+		"Word": "學期",
+		"Simplified": "学期",
+		"Pinyin": "xuéqī",
+		"English": "semester"
+	},
+	{
+		"Id": "768",
+		"Word": "已經",
+		"Simplified": "已经",
+		"Pinyin": "yǐjīng",
+		"English": "already"
+	},
+	{
+		"Id": "769",
+		"Word": "結束",
+		"Simplified": "结束",
+		"Pinyin": "jiéshù",
+		"English": "to finish"
+	},
+	{
+		"Id": "770",
+		"Word": "放假",
+		"Simplified": "放假",
+		"Pinyin": "fàngjià",
+		"English": "to go on break"
+	},
+	{
+		"Id": "771",
+		"Word": "快",
+		"Simplified": "快",
+		"Pinyin": "kuài",
+		"English": "soon/ almost"
+	},
+	{
+		"Id": "772",
+		"Word": "下車",
+		"Simplified": "下车",
+		"Pinyin": "xiàchē",
+		"English": "to get out of the car"
+	},
+	{
+		"Id": "773",
+		"Word": "找錢",
+		"Simplified": "找钱",
+		"Pinyin": "zhǎoqián",
+		"English": "to give change"
+	},
+	{
+		"Id": "774",
+		"Word": "零錢",
+		"Simplified": "零钱",
+		"Pinyin": "língqián",
+		"English": "small change"
+	},
+	{
+		"Id": "775",
+		"Word": "整錢",
+		"Simplified": "整钱",
+		"Pinyin": "zhěngqián",
+		"English": "large bills"
+	},
+	{
+		"Id": "776",
+		"Word": "大錢",
+		"Simplified": "大钱",
+		"Pinyin": "dàqián",
+		"English": "old Chinese currency"
+	},
+	{
+		"Id": "777",
+		"Word": "對",
+		"Simplified": "对",
+		"Pinyin": "duì",
+		"English": "right"
+	},
+	{
+		"Id": "778",
+		"Word": "錯",
+		"Simplified": "错",
+		"Pinyin": "cuò",
+		"English": "fault"
+	},
+	{
+		"Id": "779",
+		"Word": "照",
+		"Simplified": "照",
+		"Pinyin": "zhào",
+		"English": "to photograph"
+	},
+	{
+		"Id": "780",
+		"Word": "張",
+		"Simplified": "张",
+		"Pinyin": "zhāng",
+		"English": "measure word for photos"
+	},
+	{
+		"Id": "781",
+		"Word": "三藩市",
+		"Simplified": "三藩市",
+		"Pinyin": "sānfānshì",
+		"English": "San Francisco"
+	},
+	{
+		"Id": "782",
+		"Word": "舊金山",
+		"Simplified": "旧金山",
+		"Pinyin": "Jiùjīnshān",
+		"English": "San Francisco"
+	},
+	{
+		"Id": "783",
+		"Word": "父母",
+		"Simplified": "父母",
+		"Pinyin": "fùmǔ",
+		"English": "parents"
+	},
+	{
+		"Id": "784",
+		"Word": "離婚",
+		"Simplified": "离婚",
+		"Pinyin": "líhūn",
+		"English": "to divorce"
+	},
+	{
+		"Id": "785",
+		"Word": "當時",
+		"Simplified": "当时",
+		"Pinyin": "dāngshí",
+		"English": "at that time"
+	},
+	{
+		"Id": "786",
+		"Word": "習慣",
+		"Simplified": "习惯",
+		"Pinyin": "xíguàn",
+		"English": "to get used to"
+	},
+	{
+		"Id": "787",
+		"Word": "車站",
+		"Simplified": "车站",
+		"Pinyin": "chēzhàn",
+		"English": "bus stop"
+	},
+	{
+		"Id": "788",
+		"Word": "換",
+		"Simplified": "换",
+		"Pinyin": "huàn",
+		"English": "to change"
+	},
+	{
+		"Id": "789",
+		"Word": "上車",
+		"Simplified": "上车",
+		"Pinyin": "shàngchē",
+		"English": "to get on the bus"
+	},
+	{
+		"Id": "790",
+		"Word": "動物園",
+		"Simplified": "动物园",
+		"Pinyin": "dòngwùyuán",
+		"English": "zoo"
+	},
+	{
+		"Id": "791",
+		"Word": "別墅",
+		"Simplified": "别墅",
+		"Pinyin": "biéshù",
+		"English": "villa"
+	},
+	{
+		"Id": "792",
+		"Word": "大學",
+		"Simplified": "大学",
+		"Pinyin": "dàxué",
+		"English": "university"
+	},
+	{
+		"Id": "793",
+		"Word": "結婚",
+		"Simplified": "结婚",
+		"Pinyin": "jiéhūn",
+		"English": "to get married"
+	},
+	{
+		"Id": "794",
+		"Word": "離婚",
+		"Simplified": "离婚",
+		"Pinyin": "líhūn",
+		"English": "to divorce"
+	},
+	{
+		"Id": "795",
+		"Word": "趕出來",
+		"Simplified": "赶出来",
+		"Pinyin": "gǎn chūlái",
+		"English": "to drive out"
+	},
+	{
+		"Id": "796",
+		"Word": "一站地",
+		"Simplified": "一站地",
+		"Pinyin": "yī zhàndì",
+		"English": "one stop"
+	},
+	{
+		"Id": "797",
+		"Word": "終點站",
+		"Simplified": "终点站",
+		"Pinyin": "zhōngdiǎnzhàn",
+		"English": "terminal station"
+	},
+	{
+		"Id": "798",
+		"Word": "麻花兒",
+		"Simplified": "麻花儿",
+		"Pinyin": "máhuār",
+		"English": "fried dough twist"
+	},
+	{
+		"Id": "799",
+		"Word": "包子",
+		"Simplified": "包子",
+		"Pinyin": "bāozi",
+		"English": "stuffed bun"
+	},
+	{
+		"Id": "800",
+		"Word": "聽說",
+		"Simplified": "听说",
+		"Pinyin": "tīngshuō",
+		"English": "to hear said"
+	},
+	{
+		"Id": "801",
+		"Word": "炸糕",
+		"Simplified": "炸糕",
+		"Pinyin": "zhágāo",
+		"English": "fried rice cake"
+	},
+	{
+		"Id": "802",
+		"Word": "飽",
+		"Simplified": "饱",
+		"Pinyin": "bǎo",
+		"English": "full"
+	},
+	{
+		"Id": "803",
+		"Word": "煎餅果子",
+		"Simplified": "煎饼果子",
+		"Pinyin": "jiānbǐng guǒzi",
+		"English": "egg pancake with fried stick"
+	},
+	{
+		"Id": "804",
+		"Word": "油條",
+		"Simplified": "油条",
+		"Pinyin": "yóutiáo",
+		"English": "fried dough stick"
+	},
+	{
+		"Id": "805",
+		"Word": "火鍋",
+		"Simplified": "火锅",
+		"Pinyin": "huǒguō",
+		"English": "hotpot"
+	},
+	{
+		"Id": "806",
+		"Word": "蒙古",
+		"Simplified": "蒙古",
+		"Pinyin": "Měnggǔ",
+		"English": "Mongolia"
+	},
+	{
+		"Id": "807",
+		"Word": "特",
+		"Simplified": "特",
+		"Pinyin": "tè",
+		"English": "particularly"
+	},
+	{
+		"Id": "808",
+		"Word": "羊肉",
+		"Simplified": "羊肉",
+		"Pinyin": "yángròu",
+		"English": "lamb"
+	},
+	{
+		"Id": "809",
+		"Word": "牛肉",
+		"Simplified": "牛肉",
+		"Pinyin": "niúròu",
+		"English": "beef"
+	},
+	{
+		"Id": "810",
+		"Word": "菠菜",
+		"Simplified": "菠菜",
+		"Pinyin": "bōcài",
+		"English": "spinach"
+	},
+	{
+		"Id": "811",
+		"Word": "生菜",
+		"Simplified": "生菜",
+		"Pinyin": "shēngcài",
+		"English": "lettuce"
+	},
+	{
+		"Id": "812",
+		"Word": "拼盤",
+		"Simplified": "拼盘",
+		"Pinyin": "pīnpán",
+		"English": "combination platters"
+	},
+	{
+		"Id": "813",
+		"Word": "茶館",
+		"Simplified": "茶馆",
+		"Pinyin": "cháguǎn",
+		"English": "tea house"
+	},
+	{
+		"Id": "814",
+		"Word": "壺",
+		"Simplified": "壶",
+		"Pinyin": "hú",
+		"English": "pot"
+	},
+	{
+		"Id": "815",
+		"Word": "龍井茶",
+		"Simplified": "龙井茶",
+		"Pinyin": "Lóngjǐng chá",
+		"English": "Longjing tea"
+	},
+	{
+		"Id": "816",
+		"Word": "菊花茶",
+		"Simplified": "菊花茶",
+		"Pinyin": "júhuā chá",
+		"English": "chrysanthemum tea"
+	},
+	{
+		"Id": "817",
+		"Word": "普洱茶",
+		"Simplified": "普洱茶",
+		"Pinyin": "pǔěr chá",
+		"English": "Puer tea"
+	},
+	{
+		"Id": "818",
+		"Word": "才",
+		"Simplified": "才",
+		"Pinyin": "cái",
+		"English": "just"
+	},
+	{
+		"Id": "819",
+		"Word": "咖啡因",
+		"Simplified": "咖啡因",
+		"Pinyin": "kā fēi yīn",
+		"English": "caffeine"
+	},
+	{
+		"Id": "820",
+		"Word": "早起",
+		"Simplified": "早起",
+		"Pinyin": "zǎo qǐ",
+		"English": "to get up early"
+	},
+	{
+		"Id": "821",
+		"Word": "抗議",
+		"Simplified": "抗议",
+		"Pinyin": "kàngyì",
+		"English": "to protest"
+	},
+	{
+		"Id": "822",
+		"Word": "開玩笑",
+		"Simplified": "开玩笑",
+		"Pinyin": "kāiwánxiào",
+		"English": "to joke around"
+	},
+	{
+		"Id": "823",
+		"Word": "社會主義",
+		"Simplified": "社会主义",
+		"Pinyin": "Shèhuì Zhǔyì",
+		"English": "socialism"
+	},
+	{
+		"Id": "824",
+		"Word": "非常感謝。",
+		"Simplified": "非常感谢。",
+		"Pinyin": "Fēicháng gǎnxiè.",
+		"English": "Thank you very much."
+	},
+	{
+		"Id": "825",
+		"Word": "洗手間在哪兒？",
+		"Simplified": "洗手间在哪儿？",
+		"Pinyin": "Xǐshǒujiān zài nǎr?",
+		"English": "Where is the bathroom?"
+	},
+	{
+		"Id": "826",
+		"Word": "我可以坐在這兒嗎？",
+		"Simplified": "我可以坐在这儿吗？",
+		"Pinyin": "Wǒ kěyǐ zuòzài zhèr ma?",
+		"English": "May I sit here?"
+	},
+	{
+		"Id": "827",
+		"Word": "恭喜。",
+		"Simplified": "恭喜。",
+		"Pinyin": "Gōngxǐ.",
+		"English": "Congratulations!"
+	},
+	{
+		"Id": "828",
+		"Word": "不。",
+		"Simplified": "不。",
+		"Pinyin": "Bù.",
+		"English": "No."
+	},
+	{
+		"Id": "829",
+		"Word": "我叫(name)。",
+		"Simplified": "我叫(name)。",
+		"Pinyin": "Wǒ jiào (name).",
+		"English": "I'm (name)."
+	},
+	{
+		"Id": "830",
+		"Word": "挺 ... 的",
+		"Simplified": "挺 ... 的",
+		"Pinyin": "tǐng ... de",
+		"English": "pretty/quite"
+	},
+	{
+		"Id": "831",
+		"Word": "老樣子",
+		"Simplified": "老样子",
+		"Pinyin": "lǎoyàngzi",
+		"English": "same as always"
+	},
+	{
+		"Id": "832",
+		"Word": "聚聚",
+		"Simplified": "聚聚",
+		"Pinyin": "jùju",
+		"English": "to get together"
+	},
+	{
+		"Id": "833",
+		"Word": "好好兒",
+		"Simplified": "好好儿",
+		"Pinyin": "hǎohāor",
+		"English": "very well"
+	},
+	{
+		"Id": "834",
+		"Word": "聊聊",
+		"Simplified": "聊聊",
+		"Pinyin": "liáoliao",
+		"English": "to chat"
+	},
+	{
+		"Id": "835",
+		"Word": "你家",
+		"Simplified": "你家",
+		"Pinyin": "nǐjiā",
+		"English": "your home"
+	},
+	{
+		"Id": "836",
+		"Word": "我家",
+		"Simplified": "我家",
+		"Pinyin": "wǒjiā",
+		"English": "my home"
+	},
+	{
+		"Id": "837",
+		"Word": "小張",
+		"Simplified": "小张",
+		"Pinyin": "Xiǎo Zhāng",
+		"English": "young Zhang"
+	},
+	{
+		"Id": "838",
+		"Word": "老張",
+		"Simplified": "老张",
+		"Pinyin": "Lǎo Zhāng",
+		"English": "Old Zhang"
+	},
+	{
+		"Id": "839",
+		"Word": "聽說",
+		"Simplified": "听说",
+		"Pinyin": "tīngshuō",
+		"English": "to hear of"
+	},
+	{
+		"Id": "840",
+		"Word": "升",
+		"Simplified": "升",
+		"Pinyin": "shēng",
+		"English": "to get promoted"
+	},
+	{
+		"Id": "841",
+		"Word": "祝賀",
+		"Simplified": "祝贺",
+		"Pinyin": "zhùhè",
+		"English": "to congratulate"
+	},
+	{
+		"Id": "842",
+		"Word": "帶好兒",
+		"Simplified": "带好儿",
+		"Pinyin": "dàihǎor",
+		"English": "to give regards"
+	},
+	{
+		"Id": "843",
+		"Word": "王姐",
+		"Simplified": "王姐",
+		"Pinyin": "Wáng Jiě",
+		"English": "Sister Wang"
+	},
+	{
+		"Id": "844",
+		"Word": "生日快樂",
+		"Simplified": "生日快乐",
+		"Pinyin": "shēngrì kuàilè",
+		"English": "happy birthday"
+	},
+	{
+		"Id": "845",
+		"Word": "新的",
+		"Simplified": "新的",
+		"Pinyin": "xīnde",
+		"English": "new"
+	},
+	{
+		"Id": "846",
+		"Word": "一年",
+		"Simplified": "一年",
+		"Pinyin": "yì nián",
+		"English": "one year"
+	},
+	{
+		"Id": "847",
+		"Word": "身體健康",
+		"Simplified": "身体健康",
+		"Pinyin": "shēntǐ jiànkāng",
+		"English": "good health"
+	},
+	{
+		"Id": "848",
+		"Word": "一切順利",
+		"Simplified": "一切顺利",
+		"Pinyin": "yíqiè shùnlì",
+		"English": "everything going smoothly"
+	},
+	{
+		"Id": "849",
+		"Word": "太 ...了",
+		"Simplified": "太 ...了",
+		"Pinyin": "tài ... le",
+		"English": "excessively"
+	},
+	{
+		"Id": "850",
+		"Word": "不用客氣",
+		"Simplified": "不用客气",
+		"Pinyin": "búyòng kèqì",
+		"English": "Don't be polite"
+	},
+	{
+		"Id": "851",
+		"Word": "應該的",
+		"Simplified": "应该的",
+		"Pinyin": "yīnggāi de",
+		"English": "it's the way it should be"
+	},
+	{
+		"Id": "852",
+		"Word": "幫了大忙",
+		"Simplified": "帮了大忙",
+		"Pinyin": "bāng le dà máng",
+		"English": "to have been a big help"
+	},
+	{
+		"Id": "853",
+		"Word": "心意",
+		"Simplified": "心意",
+		"Pinyin": "xīnyì",
+		"English": "intent"
+	},
+	{
+		"Id": "854",
+		"Word": "收下",
+		"Simplified": "收下",
+		"Pinyin": "shōuxià",
+		"English": "to accept"
+	},
+	{
+		"Id": "855",
+		"Word": "對不起",
+		"Simplified": "对不起",
+		"Pinyin": "duìbùqǐ",
+		"English": "sorry"
+	},
+	{
+		"Id": "856",
+		"Word": "錯",
+		"Simplified": "错",
+		"Pinyin": "cuò",
+		"English": "to be mistaken"
+	},
+	{
+		"Id": "857",
+		"Word": "別",
+		"Simplified": "别",
+		"Pinyin": "bié",
+		"English": "don't"
+	},
+	{
+		"Id": "858",
+		"Word": "生氣",
+		"Simplified": "生气",
+		"Pinyin": "shēngqì",
+		"English": "to be angry"
+	},
+	{
+		"Id": "859",
+		"Word": "怎麼辦",
+		"Simplified": "怎么办",
+		"Pinyin": "zěnme bàn",
+		"English": "what can be done"
+	},
+	{
+		"Id": "860",
+		"Word": "手機",
+		"Simplified": "手机",
+		"Pinyin": "shǒujī",
+		"English": "cellphone"
+	},
+	{
+		"Id": "861",
+		"Word": "壞",
+		"Simplified": "坏",
+		"Pinyin": "huài",
+		"English": "to break"
+	},
+	{
+		"Id": "862",
+		"Word": "別急",
+		"Simplified": "别急",
+		"Pinyin": "bié jí",
+		"English": "don't be anxious"
+	},
+	{
+		"Id": "863",
+		"Word": "保修",
+		"Simplified": "保修",
+		"Pinyin": "bǎoxiū",
+		"English": "to repair under warranty"
+	},
+	{
+		"Id": "864",
+		"Word": "蘋果",
+		"Simplified": "苹果",
+		"Pinyin": "píngguǒ",
+		"English": "Apple"
+	},
+	{
+		"Id": "865",
+		"Word": "專賣店",
+		"Simplified": "专卖店",
+		"Pinyin": "zhuānmàidiàn",
+		"English": "specialty shop"
+	},
+	{
+		"Id": "866",
+		"Word": "重啓",
+		"Simplified": "重启",
+		"Pinyin": "chóngqǐ",
+		"English": "to reboot"
+	},
+	{
+		"Id": "867",
+		"Word": "死機",
+		"Simplified": "死机",
+		"Pinyin": "sǐjī",
+		"English": "for machine to be dead"
+	},
+	{
+		"Id": "868",
+		"Word": "想到",
+		"Simplified": "想到",
+		"Pinyin": "xiǎng dào",
+		"English": "to think of"
+	},
+	{
+		"Id": "869",
+		"Word": "食欲",
+		"Simplified": "食欲",
+		"Pinyin": "shíyù",
+		"English": "appetite"
+	},
+	{
+		"Id": "870",
+		"Word": "又",
+		"Simplified": "又...又",
+		"Pinyin": "yòu",
+		"English": "both...and"
+	},
+	{
+		"Id": "871",
+		"Word": "過生日",
+		"Simplified": "过生日",
+		"Pinyin": "guò shēngrì",
+		"English": "to have a birthday"
+	},
+	{
+		"Id": "872",
+		"Word": "別的",
+		"Simplified": "别的",
+		"Pinyin": "biéde",
+		"English": "something else"
+	},
+	{
+		"Id": "873",
+		"Word": "才",
+		"Simplified": "才",
+		"Pinyin": "cái",
+		"English": "only now"
+	},
+	{
+		"Id": "874",
+		"Word": "因為",
+		"Simplified": "因为",
+		"Pinyin": "yīnwèi",
+		"English": "because"
+	},
+	{
+		"Id": "875",
+		"Word": "屬",
+		"Simplified": "属",
+		"Pinyin": "shǔ",
+		"English": "to belong to"
+	},
+	{
+		"Id": "876",
+		"Word": "合適",
+		"Simplified": "合适",
+		"Pinyin": "héshì",
+		"English": "suitable"
+	},
+	{
+		"Id": "877",
+		"Word": "討厭",
+		"Simplified": "讨厌",
+		"Pinyin": "tǎoyàn",
+		"English": "to detest"
+	},
+	{
+		"Id": "878",
+		"Word": "星座",
+		"Simplified": "星座",
+		"Pinyin": "xīngzuò",
+		"English": "zodiac sign"
+	},
+	{
+		"Id": "879",
+		"Word": "幹嘛",
+		"Simplified": "干嘛",
+		"Pinyin": "gànmá",
+		"English": "why"
+	},
+	{
+		"Id": "880",
+		"Word": "天蝎座",
+		"Simplified": "天蝎座",
+		"Pinyin": "tiānxiēzuò",
+		"English": "Scorpio"
+	},
+	{
+		"Id": "881",
+		"Word": "請。",
+		"Simplified": "请。",
+		"Pinyin": "Qǐng.",
+		"English": "Please."
+	},
+	{
+		"Id": "882",
+		"Word": "無聊",
+		"Simplified": "无聊",
+		"Pinyin": "wúliáo",
+		"English": "boring"
+	},
+	{
+		"Id": "883",
+		"Word": "星期六",
+		"Simplified": "星期六",
+		"Pinyin": "xīngqī liù",
+		"English": "Saturday"
+	},
+	{
+		"Id": "884",
+		"Word": "約",
+		"Simplified": "约",
+		"Pinyin": "yuē",
+		"English": "to arrange"
+	},
+	{
+		"Id": "885",
+		"Word": "接",
+		"Simplified": "接",
+		"Pinyin": "jiē",
+		"English": "to pick up"
+	},
+	{
+		"Id": "886",
+		"Word": "抽時間",
+		"Simplified": "抽时间",
+		"Pinyin": "chōu shíjiān",
+		"English": "to find time"
+	},
+	{
+		"Id": "887",
+		"Word": "改天再說",
+		"Simplified": "改天再说",
+		"Pinyin": "gǎitiān zàishuō",
+		"English": "let's talk about it later"
+	},
+	{
+		"Id": "888",
+		"Word": "邀請",
+		"Simplified": "邀请",
+		"Pinyin": "yāoqǐng",
+		"English": "to invite"
+	},
+	{
+		"Id": "889",
+		"Word": "過來",
+		"Simplified": "过来",
+		"Pinyin": "guòlái",
+		"English": "to come over"
+	},
+	{
+		"Id": "890",
+		"Word": "做客",
+		"Simplified": "做客",
+		"Pinyin": "zuòkè",
+		"English": "to be a guest"
+	},
+	{
+		"Id": "891",
+		"Word": "扶",
+		"Simplified": "扶",
+		"Pinyin": "fú",
+		"English": "to hold"
+	},
+	{
+		"Id": "892",
+		"Word": "這樣",
+		"Simplified": "这样",
+		"Pinyin": "zhèyàng",
+		"English": "this way"
+	},
+	{
+		"Id": "893",
+		"Word": "就是",
+		"Simplified": "就是",
+		"Pinyin": "jiùshì",
+		"English": "just"
+	},
+	{
+		"Id": "894",
+		"Word": "回去",
+		"Simplified": "回去",
+		"Pinyin": "huíqù",
+		"English": "to return/ to go back"
+	},
+	{
+		"Id": "895",
+		"Word": "長得",
+		"Simplified": "长得",
+		"Pinyin": "zhǎng de",
+		"English": "to look"
+	},
+	{
+		"Id": "896",
+		"Word": "像",
+		"Simplified": "像",
+		"Pinyin": "xiàng",
+		"English": "like/ to resemble"
+	},
+	{
+		"Id": "897",
+		"Word": "可",
+		"Simplified": "可",
+		"Pinyin": "kě",
+		"English": "adds emphasis"
+	},
+	{
+		"Id": "898",
+		"Word": "秋天",
+		"Simplified": "秋天",
+		"Pinyin": "qiūtiān",
+		"English": "autumn"
+	},
+	{
+		"Id": "899",
+		"Word": "爵士樂",
+		"Simplified": "爵士乐",
+		"Pinyin": "juéshìyuè",
+		"English": "jazz music"
+	},
+	{
+		"Id": "900",
+		"Word": "搖滾",
+		"Simplified": "摇滚",
+		"Pinyin": "yáogǔn",
+		"English": "rock 'n' roll"
+	},
+	{
+		"Id": "901",
+		"Word": "厲害",
+		"Simplified": "厉害",
+		"Pinyin": "lìhài",
+		"English": "extreme"
+	},
+	{
+		"Id": "902",
+		"Word": "有事",
+		"Simplified": "有事",
+		"Pinyin": "yǒushì",
+		"English": "to have something"
+	},
+	{
+		"Id": "903",
+		"Word": "不舒服",
+		"Simplified": "不舒服",
+		"Pinyin": "bù shūfu",
+		"English": "uncomfortable"
+	},
+	{
+		"Id": "904",
+		"Word": "打噴嚏",
+		"Simplified": "打喷嚏",
+		"Pinyin": "dǎ pēntì",
+		"English": "to sneeze"
+	},
+	{
+		"Id": "905",
+		"Word": "這兩天",
+		"Simplified": "这两天",
+		"Pinyin": "zhè liǎng tiān",
+		"English": "the last couple of days"
+	},
+	{
+		"Id": "906",
+		"Word": "多",
+		"Simplified": "多",
+		"Pinyin": "duō",
+		"English": "more"
+	},
+	{
+		"Id": "907",
+		"Word": "在家",
+		"Simplified": "在家",
+		"Pinyin": "zàijiā",
+		"English": "at home"
+	},
+	{
+		"Id": "908",
+		"Word": "默契",
+		"Simplified": "默契",
+		"Pinyin": "mòqì",
+		"English": "complementary"
+	},
+	{
+		"Id": "909",
+		"Word": "我很好。",
+		"Simplified": "我很好。",
+		"Pinyin": "Wǒ hěn hǎo.",
+		"English": "I'm fine."
+	},
+	{
+		"Id": "910",
+		"Word": "難受",
+		"Simplified": "难受",
+		"Pinyin": "nánshòu",
+		"English": "troubled"
+	},
+	{
+		"Id": "911",
+		"Word": "用",
+		"Simplified": "用",
+		"Pinyin": "yòng",
+		"English": "to need"
+	},
+	{
+		"Id": "912",
+		"Word": "别客气",
+		"Simplified": "别客气",
+		"Pinyin": "bié kèqì",
+		"English": "Don't worry."
+	},
+	{
+		"Id": "913",
+		"Word": "該",
+		"Simplified": "该",
+		"Pinyin": "gāi",
+		"English": "should"
+	},
+	{
+		"Id": "914",
+		"Word": "母狗",
+		"Simplified": "母狗",
+		"Pinyin": "mǔgǒu",
+		"English": "female dogs"
+	},
+	{
+		"Id": "915",
+		"Word": "公狗",
+		"Simplified": "公狗",
+		"Pinyin": "gōnggǒu",
+		"English": "male dogs"
+	},
+	{
+		"Id": "916",
+		"Word": "母的",
+		"Simplified": "母的",
+		"Pinyin": "mǔ de",
+		"English": "female"
+	},
+	{
+		"Id": "917",
+		"Word": "公的",
+		"Simplified": "公的",
+		"Pinyin": "gōng de",
+		"English": "male"
+	},
+	{
+		"Id": "918",
+		"Word": "品種",
+		"Simplified": "品种",
+		"Pinyin": "pǐnzhǒng",
+		"English": "breed"
+	},
+	{
+		"Id": "919",
+		"Word": "拉布拉多",
+		"Simplified": "拉布拉多",
+		"Pinyin": "Lābùlāduō",
+		"English": "Labrador"
+	},
+	{
+		"Id": "920",
+		"Word": "希望",
+		"Simplified": "希望",
+		"Pinyin": "xīwàng",
+		"English": "to hope/ to wish"
+	},
+	{
+		"Id": "921",
+		"Word": "謝謝。",
+		"Simplified": "谢谢。",
+		"Pinyin": "Xièxiè.",
+		"English": "Thank you!"
+	},
+	{
+		"Id": "922",
+		"Word": "有趣",
+		"Simplified": "有趣",
+		"Pinyin": "yǒuqù",
+		"English": "funny"
+	},
+	{
+		"Id": "923",
+		"Word": "焦急",
+		"Simplified": "焦急",
+		"Pinyin": "jiāojí",
+		"English": "anxious"
+	},
+	{
+		"Id": "924",
+		"Word": "強壯",
+		"Simplified": "强壮",
+		"Pinyin": "qiángzhuàng",
+		"English": "strong"
+	},
+	{
+		"Id": "925",
+		"Word": "星期天",
+		"Simplified": "星期天",
+		"Pinyin": "xīngqītiān",
+		"English": "sunday"
+	},
+	{
+		"Id": "926",
+		"Word": "學校",
+		"Simplified": "学校",
+		"Pinyin": "xué xiào",
+		"English": "school"
+	},
+	{
+		"Id": "927",
+		"Word": "你是做甚麼的?",
+		"Simplified": "你是做什么的?",
+		"Pinyin": "Nǐ shì zuò shénme de?",
+		"English": "What do you do?／What is your job?"
+	},
+	{
+		"Id": "928",
+		"Word": "非常",
+		"Simplified": "非常",
+		"Pinyin": "fēicháng",
+		"English": "very much"
+	},
+	{
+		"Id": "929",
+		"Word": "假期",
+		"Simplified": "假期",
+		"Pinyin": "jiàqī",
+		"English": "holidays"
+	},
+	{
+		"Id": "930",
+		"Word": "點",
+		"Simplified": "点",
+		"Pinyin": "diǎn",
+		"English": "to order"
+	},
+	{
+		"Id": "931",
+		"Word": "有勇氣",
+		"Simplified": "有勇气",
+		"Pinyin": "yǒu yǒngqì",
+		"English": "brave"
+	},
+	{
+		"Id": "932",
+		"Word": "漫畫書",
+		"Simplified": "漫画书",
+		"Pinyin": "Mànhuà shū",
+		"English": "comic book"
+	},
+	{
+		"Id": "933",
+		"Word": "科幻小說",
+		"Simplified": "科幻小说",
+		"Pinyin": "Kēhuàn xiǎoshuō",
+		"English": "science fiction"
+	},
+	{
+		"Id": "934",
+		"Word": "作家",
+		"Simplified": "作家",
+		"Pinyin": "zuòjiā",
+		"English": "author"
+	},
+	{
+		"Id": "935",
+		"Word": "胃口",
+		"Simplified": "胃口",
+		"Pinyin": "wèikǒu",
+		"English": "appetite"
+	},
+	{
+		"Id": "936",
+		"Word": "可靠的",
+		"Simplified": "可靠的",
+		"Pinyin": "kěkào de",
+		"English": "reliable"
+	},
+	{
+		"Id": "937",
+		"Word": "有創作能力的",
+		"Simplified": "有创作能力的",
+		"Pinyin": "yǒu chuàngzuò nénglì de",
+		"English": "creative"
+	},
+	{
+		"Id": "938",
+		"Word": "聰明的",
+		"Simplified": "聪明的",
+		"Pinyin": "cōngming de",
+		"English": "smart"
+	},
+	{
+		"Id": "939",
+		"Word": "有耐心的",
+		"Simplified": "有耐心的",
+		"Pinyin": "yǒu nàixīn de",
+		"English": "patient"
+	},
+	{
+		"Id": "940",
+		"Word": "熱心的",
+		"Simplified": "热心的",
+		"Pinyin": "rèxīn de",
+		"English": "enthusiastic"
+	},
+	{
+		"Id": "941",
+		"Word": "大方的",
+		"Simplified": "大方的",
+		"Pinyin": "dàfāng de",
+		"English": "generous"
+	},
+	{
+		"Id": "942",
+		"Word": "友好的",
+		"Simplified": "友好的",
+		"Pinyin": "yǒuhǎo de",
+		"English": "friendly"
+	},
+	{
+		"Id": "943",
+		"Word": "有同情心的",
+		"Simplified": "有同情心的",
+		"Pinyin": "yǒutóngqíngxīn de",
+		"English": "sympathetic"
+	},
+	{
+		"Id": "944",
+		"Word": "周到的",
+		"Simplified": "周到的",
+		"Pinyin": "zhōudào de",
+		"English": "thoughtful"
+	},
+	{
+		"Id": "945",
+		"Word": "懶惰的",
+		"Simplified": "懒惰的",
+		"Pinyin": "lǎnduò de",
+		"English": "lazy"
+	},
+	{
+		"Id": "946",
+		"Word": "愚蠢的",
+		"Simplified": "愚蠢的",
+		"Pinyin": "yúchǔn de",
+		"English": "silly"
+	},
+	{
+		"Id": "947",
+		"Word": "笨的",
+		"Simplified": "笨的",
+		"Pinyin": "bèn de",
+		"English": "stupid"
+	},
+	{
+		"Id": "948",
+		"Word": "有闖勁的",
+		"Simplified": "有闯劲的",
+		"Pinyin": "yǒu chuǎng jìn de",
+		"English": "aggressive"
+	},
+	{
+		"Id": "949",
+		"Word": "具有藝術氣息的",
+		"Simplified": "具有艺术气息的",
+		"Pinyin": "jùyǒu yìshùqìxī de",
+		"English": "artistic"
+	},
+	{
+		"Id": "950",
+		"Word": "易怒的",
+		"Simplified": "易怒的",
+		"Pinyin": "yìnù de",
+		"English": "bad-tempered"
+	},
+	{
+		"Id": "951",
+		"Word": "細心的",
+		"Simplified": "细心的",
+		"Pinyin": "xìxīn de",
+		"English": "careful"
+	},
+	{
+		"Id": "952",
+		"Word": "隨和的",
+		"Simplified": "随和的",
+		"Pinyin": "suíhe de",
+		"English": "easygoing"
+	},
+	{
+		"Id": "953",
+		"Word": "情緒化的",
+		"Simplified": "情绪化的",
+		"Pinyin": "qíngxùhuà de",
+		"English": "emotional"
+	},
+	{
+		"Id": "954",
+		"Word": "勤奮的",
+		"Simplified": "勤奋的",
+		"Pinyin": "qínfèn de",
+		"English": "hard-working"
+	},
+	{
+		"Id": "955",
+		"Word": "優柔寡斷的",
+		"Simplified": "优柔寡断的",
+		"Pinyin": "yōuróuguǎduàn de",
+		"English": "indecisive"
+	},
+	{
+		"Id": "956",
+		"Word": "喜怒無常的",
+		"Simplified": "喜怒无常的",
+		"Pinyin": "xǐnùwúcháng de",
+		"English": "moody"
+	},
+	{
+		"Id": "957",
+		"Word": "天真的",
+		"Simplified": "天真的",
+		"Pinyin": "tiānzhēn de",
+		"English": "naive"
+	},
+	{
+		"Id": "958",
+		"Word": "喜歡社交的",
+		"Simplified": "喜欢社交的",
+		"Pinyin": "xǐhuān shèjiāo de",
+		"English": "social"
+	},
+	{
+		"Id": "959",
+		"Word": "通情達理的",
+		"Simplified": "通情达理的",
+		"Pinyin": "tōng qíng dá lǐ de",
+		"English": "understanding"
+	},
+	{
+		"Id": "960",
+		"Word": "有才智的",
+		"Simplified": "有才智的",
+		"Pinyin": "yǒu cáizhì de",
+		"English": "intelligent"
+	},
+	{
+		"Id": "961",
+		"Word": "有雄心的",
+		"Simplified": "有雄心的",
+		"Pinyin": "yǒuxióngxīn de",
+		"English": "ambitious"
+	},
+	{
+		"Id": "962",
+		"Word": "自私的",
+		"Simplified": "自私的",
+		"Pinyin": "zìsī de",
+		"English": "selfish"
+	},
+	{
+		"Id": "963",
+		"Word": "愉快的，吸引人的",
+		"Simplified": "愉快的，吸引人的",
+		"Pinyin": "\"yúkuài de",
+		"English": "xīyǐnrén de\"",
+		"undefined": "nice"
+	},
+	{
+		"Id": "964",
+		"Word": "具有懾人魅力的",
+		"Simplified": "具有慑人魅力的",
+		"Pinyin": "jùyǒu shè rén mèilì de",
+		"English": "charismatic"
+	},
+	{
+		"Id": "965",
+		"Word": "",
+		"Simplified": "周五",
+		"Pinyin": "zhōuwǔ",
+		"English": "Friday"
+	},
+	{
+		"Id": "966",
+		"Word": "",
+		"Simplified": "有什么",
+		"Pinyin": "yǒu shénme",
+		"English": "have what"
+	},
+	{
+		"Id": "967",
+		"Word": "",
+		"Simplified": "计划",
+		"Pinyin": "jìhuà",
+		"English": "plan"
+	},
+	{
+		"Id": "968",
+		"Word": "",
+		"Simplified": "吗",
+		"Pinyin": "ma",
+		"English": "question marker"
+	},
+	{
+		"Id": "969",
+		"Word": "",
+		"Simplified": "晚",
+		"Pinyin": "wǎn",
+		"English": "night"
+	},
+	{
+		"Id": "970",
+		"Word": "",
+		"Simplified": "有",
+		"Pinyin": "yǒu",
+		"English": "to have"
+	},
+	{
+		"Id": "971",
+		"Word": "",
+		"Simplified": "准备",
+		"Pinyin": "zhǔnbèi",
+		"English": "to prepare"
+	},
+	{
+		"Id": "972",
+		"Word": "電影",
+		"Simplified": "电影",
+		"Pinyin": "diànyǐng",
+		"English": "movie"
+	},
+	{
+		"Id": "973",
+		"Word": "",
+		"Simplified": "来",
+		"Pinyin": "lái",
+		"English": "to come"
+	},
+	{
+		"Id": "974",
+		"Word": "調皮的",
+		"Simplified": "调皮的",
+		"Pinyin": "tiáopí de",
+		"English": "naughty"
+	},
+	{
+		"Id": "975",
+		"Word": "清靜的",
+		"Simplified": "清静的",
+		"Pinyin": "qīngjìng de",
+		"English": "quiet"
+	},
+	{
+		"Id": "976",
+		"Word": "外向的",
+		"Simplified": "外向的",
+		"Pinyin": "wài xiàng de",
+		"English": "extroverted"
+	},
+	{
+		"Id": "977",
+		"Word": "內向的",
+		"Simplified": "内向的",
+		"Pinyin": "nèixiàng de",
+		"English": "introverted"
+	},
+	{
+		"Id": "978",
+		"Word": "用功的",
+		"Simplified": "用功的",
+		"Pinyin": "yòng gōng de",
+		"English": "diligent"
+	},
+	{
+		"Id": "979",
+		"Word": "浪漫的",
+		"Simplified": "浪漫的",
+		"Pinyin": "làngmàn de",
+		"English": "romantic"
+	},
+	{
+		"Id": "980",
+		"Word": "類型",
+		"Simplified": "类型",
+		"Pinyin": "lèi xíng",
+		"English": "genre"
+	},
+	{
+		"Id": "981",
+		"Word": "同",
+		"Simplified": "同",
+		"Pinyin": "tóng",
+		"English": "same"
+	},
+	{
+		"Id": "982",
+		"Word": "小",
+		"Simplified": "小",
+		"Pinyin": "xiǎo",
+		"English": "little"
+	},
+	{
+		"Id": "983",
+		"Word": "大",
+		"Simplified": "大",
+		"Pinyin": "dà",
+		"English": "great"
+	},
+	{
+		"Id": "984",
+		"Word": "不同",
+		"Simplified": "不同",
+		"Pinyin": "bùtóng",
+		"English": "different"
+	},
+	{
+		"Id": "985",
+		"Word": "大",
+		"Simplified": "大",
+		"Pinyin": "dà",
+		"English": "large"
+	},
+	{
+		"Id": "986",
+		"Word": "名氣",
+		"Simplified": "名气",
+		"Pinyin": "míngqì",
+		"English": "popularity"
+	},
+	{
+		"Id": "987",
+		"Word": "誠實",
+		"Simplified": "老实",
+		"Pinyin": "lǎoshí",
+		"English": "honest"
+	},
+	{
+		"Id": "988",
+		"Word": "教科書",
+		"Simplified": "教科书",
+		"Pinyin": "jiàokēshū",
+		"English": "textbook"
+	},
+	{
+		"Id": "989",
+		"Word": "小冊子",
+		"Simplified": "小册子",
+		"Pinyin": "xiǎocèzi",
+		"English": "leaflet"
+	},
+	{
+		"Id": "990",
+		"Word": "驚險",
+		"Simplified": "惊险片",
+		"Pinyin": "jīng​xiǎn",
+		"English": "thriller"
+	},
+	{
+		"Id": "991",
+		"Word": "出版商",
+		"Simplified": "出版商",
+		"Pinyin": "chūbǎnshāng",
+		"English": "publisher"
+	},
+	{
+		"Id": "992",
+		"Word": "封面",
+		"Simplified": "封面",
+		"Pinyin": "fēngmiàn",
+		"English": "cover"
+	},
+	{
+		"Id": "993",
+		"Word": "暢銷書",
+		"Simplified": "畅销书",
+		"Pinyin": "chàngxiāo shū",
+		"English": "bestseller"
+	},
+	{
+		"Id": "994",
+		"Word": "寫生簿",
+		"Simplified": "写生簿",
+		"Pinyin": "xiěshēng bù",
+		"English": "sketchbook"
+	},
+	{
+		"Id": "995",
+		"Word": "頁碼",
+		"Simplified": "页码",
+		"Pinyin": "yèmǎ",
+		"English": "page number"
+	}
+]
